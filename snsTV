@@ -20,21 +20,11 @@ https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="Bangla",ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/HRjXQdYEqsE.png" group-title="Bangla",Ananda TV
-https://live.bongobd.com/hls/5-Aj26faMHaeOwfvLkSbDA/1594478861/ananda_tv_mid/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Bangla",ATN Islamic
-https://live.bongobd.com/hls/oKazUUQ5tky3MA4gcZCLMA/1594478806/atn_islamic_tv_mid/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="Bangla",Bangla Vision
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/bangla-tv.jpg" group-title="Bangla",Bangla TV
-https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/l_24662872_172224867_2106.ts?nimblesessionid=4837172&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDEyOjU2OjA4IFBNJmhhc2hfdmFsdWU9RGFNNzNCN3VRREIzQ0lqYnNTSndQQT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
@@ -62,9 +52,6 @@ https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.deepto.tv/img/toplogo.png" group-title="Bangla",Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.desh.tv/images/siteicons/logo.png" group-title="Bangla",Desh Tv
-http://tvserver2.roarzone.info:8081/9/2020/07/11/12/56/43-05840.ts?token=fc8eccacae75d738bbcca9b96aca5c7dd1ec04f1-93989a6953e3103bea2a5f42e89997f9-1594480016-1594469216
 
 #EXTINF:-1 tvg-logo="http://www.duronto.tv/global/admin/images/setting/logo2.png" group-title="Bangla",Duronto Tv
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
@@ -108,7 +95,7 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg"  group-title="Bangla",Shomoy TV
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla
+#EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha
@@ -127,7 +114,7 @@ https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 http://103.141.66.36/bpk-tv/10263/default/manifest.mpd?=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Bangla",Ruposhi Bangla
-http://103.141.66.36/bpk-tv/10263/default/manifest.mpd?=.m3u8
+https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
@@ -264,7 +251,7 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 group-title="Hindi",Colors
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 
-#EXTINF:-1 group-title="Bangla",Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies",enter 10
@@ -357,9 +344,6 @@ http://103.144.200.7:8080/hls/masti2/index.m3u8
 #EXTINF:-1 group-title="Hindi Music",Zee ETC
 http://edge03.thunderbd.com:8081/46/index.m3u8?token=5d75b9d0152215aa9f03cc60bc7ba1d78c9c5cc5-3b89203d556429ed9e8a03a98b83c739-1590843086-1590832286&remote=103.106.243.13
 
-#EXTINF:-1 group-title="Bangla",Dhoom
-http://edge03.thunderbd.com:8081/57/index.m3u8?token=8e17e7e304209943ea8035e7e0f2c7bdac5ea190-7331df6f4c3f87e5a24ae3b031d9e70d-1590843128-1590832328&remote=103.106.243.13
-
 #EXTINF:-1 group-title="Hindi Music",big magic
 http://103.144.200.7:8080/hls/bigmagic/index.m3u8
 
@@ -387,6 +371,3 @@ http://edge03.thunderbd.com:8081/77/index.m3u8?token=8870b7860921933c2d5399ed1fe
 
 #EXTINF:-1 group-title="English Movies",& Flix
 http://edge03.thunderbd.com:8081/78/index.m3u8?token=e2953032111cdd21cc312a14be83f3d0826ad2ed-b9d5c8aae37849291ac11429ce937c0d-1590842848-1590832048&remote=103.106.243.13
-
-#EXTINF:-1 group-title="Bangla",Akash
-http://tvserver2.roarzone.info:8081/32/index.m3u8?token=0387debb30bd89b76880be0eba0bc342d52d966f-d00bdcaf51476c58b8cb2b00f7c44eff-1592844995-1592834195&remote=103.96.69.74
