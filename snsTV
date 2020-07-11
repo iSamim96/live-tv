@@ -32,20 +32,14 @@ https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_world.jpg" group-title="Bangla",BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9
-http://103.77.252.58:8081/itvhd/channel9/chunks.m3u8?nimblesessionid=8578648&wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjAgMjo1NjoxNiBQTSZoYXNoX3ZhbHVlPXowQTVuUFQ2d2tKdElIdTdYQzlTZVE9PSZ2YWxpZG1pbnV0ZXM9NQ==
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9(2)
-http://khulnalive.anytv.live:8080/channel9/tracks-v1a1/mono.m3u8
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel i
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aVQLJ-NBIWE/maxresdefault.jpg" group-title="Bangla",Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aVQLJ-NBIWE/maxresdefault.jpg" group-title="Bangla",Channel 24(2)
-https://live.bongobd.com/hls/_xnVuhiimVfrbs9XnNDk6Q/1594479367/channel_24_mid/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
