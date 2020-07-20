@@ -413,9 +413,6 @@ https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="Hindi",Sony Sab HD
 https://stream.amrbd.com/Sony_Sab/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="Hindi Movies",Sony Max HD (2)
-https://stream.amrbd.com/sonymax/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMtjQfK.png" group-title="Hindi Movies",UTV Movies
 http://103.135.208.14/live/ibox/bd/7.m3u8
 
@@ -443,7 +440,7 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Hindi Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg”  group-title="Hindi Music",9XM Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg” group-title="Hindi Music",9XM Music
 https://stream.amrbd.com/9xm/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo=" https://www.speedinfonet.in/cable_admin/sub_sub_category/816UTV%20ACTION.jpg" group-title="Hindi Movies",UTV Action
