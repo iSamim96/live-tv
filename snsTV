@@ -449,7 +449,7 @@ https://stream.amrbd.com/9xm/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo=" https://www.speedinfonet.in/cable_admin/sub_sub_category/816UTV%20ACTION.jpg" group-title="Hindi Movies",UTV Action
 https://watchindia.net:8443/live/53492/87639/805.ts
 
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Hindi Music",masti
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png" group-title="Hindi Music",masti
 https://stream.amrbd.com/Masti-Music/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title=”Hindi Music",Zee ETC
