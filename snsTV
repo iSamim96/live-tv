@@ -62,8 +62,8 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv
 http://tv-cdn.ihub.live:8080/EkattorTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv(2)
-https://live.bongobd.com/hls/w8YnvKgjU88OKHFmtnPWLA/1594480486/ekattur_tv_mid/index.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv(2)
+https://stream.amrbd.com/Ekattor-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ekushey_tv.jpg" group-title="Bangla",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
