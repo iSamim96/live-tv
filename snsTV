@@ -455,7 +455,7 @@ https://stream.amrbd.com/Masti-Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="Hindi Music",Zee ETC
 http://103.141.66.36/bpk-tv/10007/default/manifest.mpd?=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.assettype.com/afaqs/import/all/news/images/news_story_grfx/2016/49483_1_home_big.jpg" group-title="Hindi",Sony TV
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sony-entertainment-television-1-logo-png-transparent.png" group-title="Hindi",Sony TV
 https://stream.amrbd.com/SonyTVHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Hindi Movies",Sony Max
