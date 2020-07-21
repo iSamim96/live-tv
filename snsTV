@@ -444,7 +444,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 https://stream.amrbd.com/9xm/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo=" https://www.speedinfonet.in/cable_admin/sub_sub_category/816UTV%20ACTION.jpg" group-title="Hindi Movies",UTV Action
-https://watchindia.net:8443/live/53492/87639/805.ts
+http://45.249.187.238:8081/hls/tsl-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png" group-title="Hindi Music",masti
 https://stream.amrbd.com/Masti-Music/tracks-v1a1/mono.m3u8
@@ -454,6 +454,24 @@ http://103.141.66.36/bpk-tv/10007/default/manifest.mpd?=.m3u8
 
 #EXTINF:-1 tvg-logo="http://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi",Sony TV
 https://stream.amrbd.com/SonyTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="English Movies",& Flix
+http://45.249.187.238:8081/hls/new21.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movies",HBO (1)
+http://45.249.187.238:8081/hls/new13.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 (*)
+http://45.249.187.238:8081/hls/new2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Cartoon",CARTOON NETWORK HD
+http://45.249.187.238:8081/hls/new14.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Cartoon",Disney channel
+http://45.249.187.238:8081/hls/live0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Cartoon",POGO (!)
+http://45.249.187.238:8081/hls/hdmi1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Hindi Movies",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
