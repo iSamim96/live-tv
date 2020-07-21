@@ -476,3 +476,7 @@ http://45.249.187.238:8081/hls/hdmi1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Hindi Movies",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-pictures/list_clean/09picturespictur_303781568.png" group-title="Hindi Movies", & Pictures
+http://103.135.208.14/live/ibox/bd/94.m3u8
+
+
