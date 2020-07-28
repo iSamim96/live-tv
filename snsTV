@@ -482,4 +482,5 @@ http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-pictures/list_clean/09picturespictur_303781568.png" group-title="Hindi Movies", & Pictures
 http://103.135.208.14/live/ibox/bd/94.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/340?cb=20200122045551" group-title="English Movies",Sony PIX
+http://tvserver.dflix.live:8082/41/index.m3u8?token=1cff88acd667587ac871cb5f6c7ce82a5bd4c026-dc163e1c7ffa06c15ae6cfcbbe5e6ada-1595936739-1595925939&remote=103.96.69.74
