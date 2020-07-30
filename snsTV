@@ -263,10 +263,10 @@ http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png"  group-title="Sports",Sony Ten 3
 http://103.205.133.14/hls/ten3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD
 http://otv.ftpbd.net/streams/104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/ad560c34679f83dc76916585fdf15b84/L0KzQYm3VsEyN51vgJH0aYP2gLBuTgN1aaMyiAJ4coT2PcT7ggIucZ9pgdM2dHXvdcfwkBlwdl5ogNN3bnXvPcT2jwkufJZzReV5b4L3g8X9TcVjOZZpTqo8YnK3drW7TsIyP2Y5Tqk6MUW1SIi7V8Y2OWg7T6Q3cH7q/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed683bb4fd4.2175467115287476517672.png” group-title="Sports",Star Sports 2
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 HD
 https://stream.amrbd.com/kn2a/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD
