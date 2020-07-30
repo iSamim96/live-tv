@@ -488,34 +488,34 @@ http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/aI0KwL2.png" ,Fight Sports
 http://45.126.83.51/uq2663/h/h05/index.m3u8
 
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://images-fe.ssl-images-amazon.com/images/I/81VZaxj6a1L._SR600,315_SCLZZZZZZZ_.png” ,Filmrise Family
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://images-fe.ssl-images-amazon.com/images/I/81VZaxj6a1L._SR600,315_SCLZZZZZZZ_.png" ,Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
 
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://filmrise.com/uploads/images/_medium/Splash-Option-4.1HD.jpg” ,Filmrise Movies
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://filmrise.com/uploads/images/_medium/Splash-Option-4.1HD.jpg" ,Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 
-#EXTINF:-1 group-title=”English Movies” tvg-logo=” https://e7.pngegg.com/pngimages/248/139/png-clipart-fox-action-movies-fox-movies-television-channel-fox-international-channels-action-film-others-miscellaneous-television.png” ,Fox Action Movies
+#EXTINF:-1 group-title="English Movies” tvg-logo="https://e7.pngegg.com/pngimages/248/139/png-clipart-fox-action-movies-fox-movies-television-channel-fox-international-channels-action-film-others-miscellaneous-television.png" ,Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://adnas.com/wp-content/uploads/2019/08/fox-news-logo.jpg” ,FOX NEWS
+#EXTINF:-1 group-title="News" tvg-logo="https://adnas.com/wp-content/uploads/2019/08/fox-news-logo.jpg" ,FOX NEWS
 https://gma2.blab.email/espn2.m3u8
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/gUu2nMa.png" ,HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
 
-#EXTINF:-1 group-title=" English Movies" tvg-logo="https://i.imgur.com/DD7eWYT.png" ,Hits
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/DD7eWYT.png" ,Hits
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 
-#EXTINF:-1 group-title=" English Movies" tvg-logo="https://i.imgur.com/qlDIXH7.png" ,Romedy Now
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/qlDIXH7.png" ,Romedy Now
 http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/X6jZnUy.png" ,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 
-#EXTINF:-1 group-title=" English Movies" tvg-logo="https://i.imgur.com/eWdROQp.png" ,Warner Bros TV
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/eWdROQp.png" ,Warner Bros TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
-#EXTINF:-1 group-title=" English Movies" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/s3.loopme.sg/img/newos/brands/2x/MKy0cFK5jrnu7o6p.png”,Warner TV
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/s3.loopme.sg/img/newos/brands/2x/MKy0cFK5jrnu7o6p.png” ,Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/IpKuSbU.png" ,AXN
