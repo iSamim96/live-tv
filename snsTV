@@ -254,6 +254,9 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="Documentary",NHK World Japan
 https://itpolly.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idBeSSd.png" group-title="Documentary", BBC EARTH  
+https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="Documentary",FOX LIFE  
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
@@ -311,6 +314,9 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/aI0KwL2.png" ,Fight Sports
 http://45.126.83.51/uq2663/h/h05/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idBeSSd.png" group-title="Sports" ,SKY SPORTS CRICKET
+http://tv-cdn.ihub.live:8080/j-StarSportsCricket/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 
@@ -346,6 +352,9 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" group-title="Cartoon",Aniplus
 http://45.126.83.51/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 group-title="Kids 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XPBl26M.png" group-title="Cartoon",Discovery Kids
 https://stream.amrbd.com/Discovery_kids/tracks-v1a1/mono.m3u8
