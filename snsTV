@@ -347,6 +347,9 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" group-title="Cartoon",Aniplus
 http://45.126.83.51/dr9445/h/h02/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XPBl26M.png" group-title="Cartoon",Discovery Kids
+https://stream.amrbd.com/Discovery_kids/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Cartoon",POGO
 http://202.163.117.6:9981/stream/channelid/872564616
 
