@@ -383,6 +383,9 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="Hindi Music",Zoom
 https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg” group-title="Hindi Music",9XM Music
+https://stream.amrbd.com/9xm/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" group-title="Hindi Movies",B4U movies
 https://stream.amrbd.com/B4umuisc/tracks-v1a1/mono.m3u8
 
@@ -443,10 +446,7 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Hindi Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg” group-title="Hindi Music",9XM Music
-https://stream.amrbd.com/9xm/tracks-v1a1/mono.m3u8
-
-#EXTINF:1 tvg-logo=" https://www.speedinfonet.in/cable_admin/sub_sub_category/816UTV%20ACTION.jpg" group-title="Hindi Movies",UTV Action
+#EXTINF:1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2011/12/New-UTV-Action-logo.jpg" group-title="Hindi Movies",UTV Action
 http://45.249.187.238:8081/hls/tsl-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png" group-title="Hindi Music",masti
