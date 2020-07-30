@@ -213,10 +213,10 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+http://103.135.208.14/live/ibox/bd/93.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD
-http://tvserver.dflix.live:8082/43/index.m3u8?token=7b14d32c567ad9b390938ce183ca365fc0da951a-b1de11b243a81cf6c8238e286eec9a7a-1595933322-1595922522&remote=103.96.69.74
+https://watchindia.net:8443/live/41988/94869/793.ts
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic
 https://stream.amrbd.com/NAT-GEO-HD/tracks-v1a1/mono.m3u8
