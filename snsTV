@@ -203,8 +203,11 @@ http://103.107.160.20:8081/amrbd/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha HD(*)
 http://103.231.228.229/hls/HDMI15.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla HD
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla
+http://ccn.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema
 http://103.141.66.36/bpk-tv/10263/default/manifest.mpd?=.m3u8
@@ -254,8 +257,11 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="Documentary",Investigation Discovery
 https://stream.amrbd.com/Jeet-Prime/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png"  group-title="Documentary",History TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png"  group-title="Documentary",History TV India
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png"  group-title="Documentary",History TV
+http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC HD
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
@@ -409,6 +415,9 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="English Movies",Colors Infinity
 https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/10/15/Untitled-1_31.jpg" group-title="English Movies",Romedy Now
+http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi",Colors HD
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
