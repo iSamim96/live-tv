@@ -117,7 +117,7 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="Bangla",NAGORIK TV
-http://tv-cdn.ihub.live:8080/j-NagorikTV/tracks-v1a1/mono.m3u8
+http://45.249.187.238:8081/hls/new16.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="Bangla",NTV BD
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
@@ -213,7 +213,7 @@ http://103.141.66.36/bpk-tv/10263/default/manifest.mpd?=.m3u8
 https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
-http://tv-cdn.ihub.live:8080/j-SonyAat/tracks-v1a1/mono.m3u8
+http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="Bangla",Songit Bangla
 https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
@@ -285,10 +285,10 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1
-http://tv-cdn.ihub.live:8080/j-SonyTen1/tracks-v1a1/mono.m3u8
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 HD
-http://tv-cdn.ihub.live:8080/j-SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png"  group-title="Sports",Sony Ten 3
 http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
@@ -399,7 +399,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD
-http://stream.amrbd.com:8082/kn7a/tracks-v1a1/mono.m3u8
+http://45.249.187.238:8081/hls/tsl-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg"  group-title="English Movies",HBO
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
