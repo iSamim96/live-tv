@@ -6,7 +6,7 @@
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv(2)
-http://tv-cdn.ihub.live:8080/GaziTV/tracks-v1a1/mono.m3u8
+http://ccn.anytv.live:8080/gazi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv(3)
 http://103.231.228.229/hls/HDMI13.m3u8
@@ -309,7 +309,7 @@ http://103.107.160.20:8081/amrbd/sonysix/chunks.m3u8
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg"  group-title="Sports",Star Sports 1 HD
-http://otv.ftpbd.net/streams/104/index.m3u8
+http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 HD
 http://103.107.160.20:8081/amrbd/starsports2/chunks.m3u8
@@ -361,6 +361,9 @@ https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Cartoon",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Cartoon",Disney Junior
+http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Cartoon",Mr Bean Show
 http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
