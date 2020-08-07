@@ -231,7 +231,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi
-http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
+http://45.249.187.238:8081/hls/tsl-1.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
