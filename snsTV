@@ -482,7 +482,7 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/srRLjLe.png" group-title="Hindi Music",MTV Beats India
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=”https://tinyurl.com/y3tmttn9” group-title="Hindi Music",MTV India
+#EXTINF:-1 tvg-logo=”https://www.viacom18.com/images/media_uploads/mtv_india.png” group-title="Hindi Music",MTV India
 http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIYOu4i.jpg" tvg-country="IN" tvg-url="" group-title="Hindi Music",Jhanjar Music
