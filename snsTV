@@ -218,6 +218,12 @@ https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
 http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 
+EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Bangla",Akaash Aath
+http://103.141.66.36/bpk-tv/10112/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM4spPflPICAbCtRr9cjnMAbnxYS2JFec4fr57-_NbLztTXmqP&usqp=CAU" group-title="Bangla",Khusbo Bangla
+http://103.141.66.36/bpk-tv/10139/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="Bangla",Songit Bangla
 https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 
@@ -455,11 +461,11 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="Hindi Music",Zoom
 https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Hindi Music", 9XM Music
-https://stream.amrbd.com/9xm/tracks-v1a1/mono.m3u8
+EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/mk%20tunes.jpg" group-title="Hindi Music" , MK Tunes
+http://103.141.66.36/bpk-tv/10165/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" group-title="Hindi Movies",B4U movies
-https://stream.amrbd.com/B4umuisc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www-indiantelevision-com.cdn.ampproject.org/ii/w820/s/www.indiantelevision.com/sites/default/files/images/tv-images/2019/02/14/9x-jalwa.jpg" group-title="Hindi Music", 9XM Jalwa
+http://103.141.66.36/bpk-tv/10283/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="Hindi",Colors Rishtey
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
@@ -471,7 +477,7 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XooMA08.jpg" group-title="Hindi Music",B4U Music
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+http://103.141.66.36/bpk-tv/10282/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png" tvg-country="IN" tvg-url="" group-title="Hindi Music",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
