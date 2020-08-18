@@ -59,14 +59,14 @@ http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.deepto.tv/img/toplogo.png" group-title="Bangla",Deepto TV
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/deepto-tv.jpg" group-title="Bangla",Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto Tv
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/01.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv(2)
 http://175.41.46.15/10.flv
