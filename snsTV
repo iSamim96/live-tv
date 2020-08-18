@@ -185,6 +185,9 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi
 http://45.249.187.238:8081/hls/tsl-1.m3u8
 
+#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet
+http://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi
 http://silvertv.net:1997/Majdi/Majdi123/60044
 
@@ -292,6 +295,12 @@ http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports" ,Bein Sports
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+
+EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Sports",BT Sports 1
+https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
+
+EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Sports",BT SPORTS 2
+https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
