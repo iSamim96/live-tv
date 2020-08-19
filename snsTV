@@ -189,16 +189,19 @@ http://45.249.187.238:8081/hls/tsl-1.m3u8
 http://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi
-http://silvertv.net:1997/Majdi/Majdi123/60044
+http://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+http://178.132.3.162:88/Discovery/video.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science
 http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentary",Discovery Turbo
 http://streamitv.multitvsolution.in/idvo/turboeng_540p/index.m3u8
+
+#EXTINF:1 tvg-logo="http://logok.org/wp-content/uploads/2014/10/Discovery-History-logo-880x660.png" group-title="Documentary",Discovery History
+http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD
 http://otv.ftpbd.net/streams/110/index.m3u8
@@ -237,22 +240,22 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+http://175.41.46.16:8081/hls/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2
-http://otv.ftpbd.net/streams/112/index.m3u8
+https://watchindia.net/live/84106/10452/1757.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png"  group-title="Sports",Sony Ten 3
-http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
+https://watchindia.net/live/84106/10452/1758.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
-http://otv.ftpbd.net/streams/105/index.m3u8
+https://watchindia.net/live/84106/10452/1756.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+http://175.41.46.16:8081/hls/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
-http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+http://175.41.46.16:8081/hls/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
@@ -278,14 +281,14 @@ http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 (*)
 http://45.249.187.238:8081/hls/new2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD(*)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 2 (*)
+http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/isupportcause/uploads/overlay/isupportimg_1503550080191.png"  group-title="Sports",Skynet Sports
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/85.ts
+http://45.249.187.238:8081/hls/new1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PiXDwF0.jpg"  group-title="Sports",Disports
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/aI0KwL2.png" ,Fight Sports
 http://45.126.83.51/uq2663/h/h05/index.m3u8
@@ -294,13 +297,13 @@ http://45.126.83.51/uq2663/h/h05/index.m3u8
 http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports" ,Bein Sports
-https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
 
 #EXTINF:-1 tvg-logo="https://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="Sports",BT Sports 1
-https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
+https://watchindia.net/live/84106/10452/2097.ts
 
 #EXTINF:-1 tvg-logo="https://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="Sports",BT SPORTS 2
-https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
+https://watchindia.net/live/84106/10452/2098.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
