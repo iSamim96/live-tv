@@ -14,6 +14,9 @@ http://103.141.66.36/bpk-tv/10328/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
 http://45.249.187.238:8081/hls/live5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
+http://175.41.46.15/14.flv
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 
@@ -24,7 +27,7 @@ http://45.249.187.238:8081/hls/live6.m3u8
 http://103.141.66.36/bpk-tv/10154/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD(*)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/01.ts
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="Bangla" group-title="Bangla",Asian Tv
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
