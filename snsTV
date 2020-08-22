@@ -303,10 +303,10 @@ http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
 http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
 
 #EXTINF:-1 tvg-logo="https://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="Sports",BT Sports 1
-https://watchindia.net/live/84106/10452/2097.ts
+http://ott-sports.ddns.net:8081/live/ts1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="Sports",BT SPORTS 2
-https://watchindia.net/live/84106/10452/2098.ts
+http://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
