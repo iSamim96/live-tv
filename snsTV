@@ -191,11 +191,17 @@ http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet
 http://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 
+#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi
+http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi
 http://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD
 http://178.132.3.162:88/Discovery/video.m3u8?token=test
+
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD International
+http://live-ng-01.more.tv:80/hls/Discovery_HD/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science
 http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
@@ -208,6 +214,12 @@ http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD
 http://otv.ftpbd.net/streams/110/index.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic
+http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/212-2127081_transparent-national-geographic-png-nat-geo-people-png.png"  group-title="Documentary",NAT GEO People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
@@ -243,7 +255,7 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1
-http://175.41.46.16:8081/hls/6.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
@@ -252,10 +264,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 https://watchindia.net/live/84106/10452/1758.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+http://otv.ftpbd.net/streams/105/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
-http://175.41.46.16:8081/hls/7.m3u8
+http://otv.ftpbd.net/streams/112/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
 http://175.41.46.16:8081/hls/8.m3u8
