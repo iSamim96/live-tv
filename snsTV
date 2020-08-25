@@ -9,7 +9,7 @@ http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/06.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv(3)
-http://103.141.66.36/bpk-tv/10328/default/index.m3u8
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
 http://45.249.187.238:8081/hls/live5.m3u8
@@ -24,7 +24,7 @@ https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 http://45.249.187.238:8081/hls/live6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
-http://103.141.66.36/bpk-tv/10154/default/index.m3u8
+http://103.214.202.218:8081/live/maasranga/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD(*)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/01.ts
@@ -153,14 +153,8 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha HD(*)
-http://103.141.66.36/bpk-tv/10234/default/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla HD
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema
-http://103.141.66.36/bpk-tv/10263/default/manifest.mpd?=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Bangla",Ruposhi Bangla
 https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
@@ -207,6 +201,9 @@ http://178.132.3.162:88/Discovery/video.m3u8?token=test
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD International
 http://live-ng-01.more.tv:80/hls/Discovery_HD/index_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery SD [HINDI]
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science
 http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
 
@@ -246,8 +243,12 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="Documentary",NHK World Japan
 https://itpolly.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="Documentary", BBC EARTH  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary", BBC EARTH  
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",SONY BBC EARTH HD
+https://watchindia.net:8443/live/33364/07007/789.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="Documentary",FOX LIFE  
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
@@ -369,9 +370,6 @@ https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Cartoon",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Cartoon",Disney Junior
-http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Cartoon",Mr Bean Show
 http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
 
@@ -389,9 +387,6 @@ https://stream.amrbd.com:8082/Discovery_kids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Cartoon",POGO
 http://202.163.117.6:9981/stream/channelid/872564616
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M3GFtld.png" group-title="Cartoon",Hungama
-http://202.163.117.6:9981/stream/channelid/1357890196
 
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/2DK2OYQmSB4/maxresdefault.jpg" group-title="Cartoon",Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
@@ -486,8 +481,8 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/srRLjLe.png" group-title="Hindi Music",MTV Beats India
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=”https://logosolusa-com.cdn.ampproject.org/i/logosolusa.com/wp-content/uploads/2016/08/MTV.-home-entertainment-Logo-1-735x490.png” group-title="Hindi Music",MTV India
-http://103.141.66.36/bpk-tv/10110/default/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/GPPBEiZ.png” group-title="Hindi Music",MTV India
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIYOu4i.jpg" tvg-country="IN" tvg-url="" group-title="Hindi Music",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
@@ -565,7 +560,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/340?cb=20200122045551" group-title="English Movies" ,Sony PIX
-http://103.205.133.19/hls/sonypix.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://images-fe.ssl-images-amazon.com/images/I/81VZaxj6a1L._SR600,315_SCLZZZZZZZ_.png" ,Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
