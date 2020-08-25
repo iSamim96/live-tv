@@ -128,6 +128,10 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Bangla",TITAS SPORTS
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="Bangla",Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
 
@@ -257,11 +261,17 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1(*)
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2(*)
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png"  group-title="Sports",Sony Ten 3
-https://watchindia.net/live/84106/10452/1758.ts
+http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
 http://otv.ftpbd.net/streams/105/index.m3u8
@@ -269,8 +279,11 @@ http://otv.ftpbd.net/streams/105/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
 http://otv.ftpbd.net/streams/112/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD*
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
-http://175.41.46.16:8081/hls/8.m3u8
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
@@ -287,8 +300,14 @@ http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/104/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD(*)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg"  group-title="Sports",Star Sports Select 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg"  group-title="Sports",Star Sports Select 2 HD(*)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD
 http://otv.ftpbd.net/streams/106/index.m3u8
@@ -297,7 +316,10 @@ http://otv.ftpbd.net/streams/106/index.m3u8
 http://45.249.187.238:8081/hls/new2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 2 (*)
-http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="Sports",PK Sports HD
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/isupportcause/uploads/overlay/isupportimg_1503550080191.png"  group-title="Sports",Skynet Sports
 http://45.249.187.238:8081/hls/new1.m3u8
