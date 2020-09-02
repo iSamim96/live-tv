@@ -382,8 +382,8 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XPBl26M.png" group-title="Cartoon",Discovery Kids
-https://stream.amrbd.com:8082/Discovery_kids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/cynbrg6ff4bo0iunq7gc" group-title="Cartoon",Hungama 
+http://w.xrocker.org:8080/1rgQYqgxaQ/eT3h9GAc0N/514314?play_token=FCbsatJP53&token=SBNbWEZdQA0VVFdYVgAIUwIHWlMMAVVTXlYGVgAEClJXVQYIVFAEUw8XHRtEEEMDVglnWVAXW1NXUQUEAE0bE0BUQWZcUUANFQEJCA9RE0oVEFFdURdbV1NcDwUGVg1SAR0RSVxRQA0VBAgJA1cTShUBQERRRw8HCjpSUEIIWgMRC11MWVlOFVhbbl1SCVAIU0YCEgQXTUQPFkYXDg9MCl8dEVtcQRBWQ1ATAxVVB1MORhQSV1oUCBIXTxcOQ3siER0RXE1BB1lEXF5XFV4TEkRGFBJdRj4UAxZCR1EAVANBEwkbBRdOFVpUSWZUC18IUgdMWVtbEkRcRwcXGENUCV1YR1ZHahJeUxcLGwZXBVcERkU%3D&fbclid=IwAR2c1gVFlbNGn1NJZWfQ5UQgBaJNQFt_yNOsQFyu-iEMWcP1sYHVRKx8tkQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Cartoon",POGO
 http://202.163.117.6:9981/stream/channelid/872564616
