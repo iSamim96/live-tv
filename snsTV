@@ -3,7 +3,7 @@
 #SOURCEIT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv
-http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv(2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/06.ts
@@ -14,9 +14,6 @@ http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
 http://175.41.46.15/12.flv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga (1)
 http://45.249.187.238:8081/hls/live6.m3u8
 
@@ -24,43 +21,49 @@ http://45.249.187.238:8081/hls/live6.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/01.ts
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="Bangla" group-title="Bangla",Asian Tv
-https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/asian.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="Bangla",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/atnbangla.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/atnnews.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="Bangla",Bangla Vision
-https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/banglavision.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="Bangla",Bangla Vision
+http://45.249.187.238:8081/hls/new6.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/boishakhi.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_world.jpg" group-title="Bangla",BTV World
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9(2)
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/channel9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9
+http://45.249.187.238:8081/hls/live3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel i
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+http://45.249.187.238:8081/hls/live7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aVQLJ-NBIWE/maxresdefault.jpg" group-title="Bangla",Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/channel24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyoXd9c.png" group-title="Bangla",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+http://175.41.46.15/14.flv
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/deepto-tv.jpg" group-title="Bangla",Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+http://45.249.187.238:8081/hls/new22.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto Tv
-https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+http://45.249.187.238:8081/hls/new3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
@@ -68,17 +71,20 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv(2)
 http://175.41.46.15/10.flv
 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv(3)
+http://45.249.187.238:8081/hls/live6.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ekushey_tv.jpg" group-title="Bangla",Ekushey TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/ekushey.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="Bangla",DESH TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/desh.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Gaan_Bangla.png" group-title="Bangla",Gaan Bangla
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv
-https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+http://45.249.187.238:8081/hls/hdmi4.m3u8
 
 #EXTINF:-1 tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Bangla",IQRA TV
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
@@ -87,16 +93,13 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
 
 #EXTINF:-1 tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="Bangla",Jamuna Tv(2)
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+http://45.249.187.238:8081/hls/live2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",MOHONA TV
-https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/mohona.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangla",MY TV
-https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="Bangla",NAGORIK TV
-http://45.249.187.238:8081/hls/new16.m3u8
+http://45.249.187.238:8081/hls/new5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="Bangla",NAGORIK TV(*)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/03.ts
@@ -105,25 +108,24 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/03.ts
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+http://45.249.187.238:8081/hls/live4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Bangla",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU" group-title="Bangla",RTV BD
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8
+http://45.249.187.238:8081/hls/live1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Bangla",RTV Music [BD]
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/satv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV
-https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/somoy.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV
-
 http://45.249.187.238:8081/hls/hdmi2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Bangla",TITAS SPORTS
@@ -138,23 +140,20 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla HD
-http://103.107.160.20:8081/amrbd/colorsbangla/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="Bangla",Star Jalsa Movies
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha
-https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+http://103.205.133.19/hls/chsj.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla HD
-https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Bangla",Ruposhi Bangla
-https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA",Zee Bangla Cinema [IN]
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
@@ -165,29 +164,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM4spPflPICAbCtRr9cjnMAbnxYS2JFec4fr57-_NbLztTXmqP&usqp=CAU" group-title="Bangla",Khusbo Bangla
 http://103.141.66.36/bpk-tv/10139/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="Bangla",Songit Bangla
-https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Bangla",MY CINEMA IPTV [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Bangla",Movie Bangla TV [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/movieBanglalink2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Biswa-Bangla-24.png" group-title="Bangla",Biswa Bangla 24 TV [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswaBanglatv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="Bangla",Alpona IPTV [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/Bangla21tv.jpg?x91288" group-title="Bangla",Bangla 21 IPTV [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/Bangla21tv000889956-sg.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="Bangla",Cumilla 24 IPTV [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/digiBangla24update.jpg?x91288" group-title="Bangla",DG Bangla IPTV [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/digiBangla.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="Bangla",Deshe Bideshe [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
@@ -213,17 +191,8 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="Bangla",RANG IPTV [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Bangla",VOICE IPTV [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aVwQSXn.jpg" group-title="Bangla",JONMOBHUMI IPTV [BD]
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/live-orgin/jonmobhumitv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x91288" group-title="Bangla",ION TV UK [BD]
-http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/live-orgin/iontvuk.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/live2web-logo-Converted.jpg?x91288" group-title="Bangla",LIVE2WEB IPTV [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/live2web.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="Bangla",PAN VISION IPTV [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
@@ -243,17 +212,8 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Bangla",NRB IPTV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="Hindi",Star bharat
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="Hindi",Zee Tv
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi",Colors HD
-https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi
 http://45.249.187.238:8081/hls/tsl-1.m3u8
@@ -298,28 +258,19 @@ http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png"  group-title="Documentary",History TV India
-https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC HD
-https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg"  group-title="Documentary",NATGEO WILD
-https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227157/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg"  group-title="Documentary",BBC LifeStyle
-https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png"  group-title="Documentary",NAT GEO India
-https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-
-#EXTINF:1 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="Documentary",NHK World Japan
-https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png"  group-title="Documentary",NAT GEO
+http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63557
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary", BBC EARTH  
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",SONY BBC EARTH HD
-https://watchindia.net:8443/live/33364/07007/789.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="Documentary",FOX LIFE  
 https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
@@ -415,28 +366,22 @@ http://ott-sports.ddns.net:8081/live/ts1/chunks.m3u8
 http://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
-https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
+http://203.162.235.41:16917
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="News",CNN
-https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8
+http://203.162.235.41:16918 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="News",Al Jazeera
-https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="News",DW
-https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/792/17/png-transparent-nick-jr-too-nickelodeon-television-channel-nick-blaze.png" group-title="Cartoon",nick Junior
-https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6210213-nick-logo-png-nickelodeon-logo-transparent-background-nickelodeon-logo-transparent-920_693_preview.png" group-title="Cartoon",nick
-https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/94NoKFn.jpg" group-title="Cartoon",nick sonic
-https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Cartoon",Nick HD
-https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Cartoon",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
@@ -535,19 +480,16 @@ http://103.141.66.36/bpk-tv/10283/default/index.m3u8
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg"  group-title="Hindi Music",Zing
-https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="Hindi Music",MTV Beats
-https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+https://watchindia.net:8443/live/98398/86511/786.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XooMA08.jpg" group-title="Hindi Music",B4U Music
 http://103.141.66.36/bpk-tv/10282/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png" tvg-country="IN" tvg-url="" group-title="Hindi Music",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-
-#EXTINF:1 tvg-logo="https://i.imgur.com/srRLjLe.png" group-title="Hindi Music",MTV Beats India
-https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/GPPBEiZ.png” group-title="Hindi Music",MTV India
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
@@ -576,9 +518,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="Hindi Movies",Wow Cinema
 http://103.205.133.14/hls/wowcinema.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="Hindi",Manoranjan TV
-https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Hindi Movies",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 
@@ -592,7 +531,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://45.249.187.238:8081/hls/tsl-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png" group-title="Hindi Music",masti
-https://stream.amrbd.com/Masti-Music/tracks-v1a1/mono.m3u8
+http://45.249.187.238:8081/hls/new12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="Hindi Music",Zee ETC
 http://103.141.66.36/bpk-tv/10007/default/manifest.mpd?=.m3u8
@@ -601,10 +540,10 @@ http://103.141.66.36/bpk-tv/10007/default/manifest.mpd?=.m3u8
 http://103.141.66.36/bpk-tv/10315/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg" group-title="Hindi",Sony TV
-http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="English Movies",& Flix
-http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movies",HBO (1)
 http://45.249.187.238:8081/hls/new13.m3u8
@@ -622,10 +561,13 @@ http://45.249.187.238:8081/hls/hdmi1.m3u8
 http://otv.ftpbd.net/streams/109/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="Hindi Movies",Sony Max HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="Hindi Movies",Sony Max
+http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6510?token=SRJYAhFRRlgVVFFXVQcDCARWX1AEBAVWUFEGUVNWVwcEBAJQWlhSBFNBHkYSRhRUUFhmW1UWXgIGAlJIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoGUVwCUlRXHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-pictures/list_clean/09picturespictur_303781568.png" group-title="Hindi Movies", & Pictures
-http://103.141.66.36/bpk-tv/10190/default/index.m3u8
+http://45.249.187.238:8081/hls/tsl-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/340?cb=20200122045551" group-title="English Movies" ,Sony PIX
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
