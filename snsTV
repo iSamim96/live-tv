@@ -20,6 +20,9 @@ http://175.41.46.15/12.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD(*)
 http://otv.ftpbd.net/streams/108/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD(*
+http://103.107.160.20:8081/amrbd/gazihd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga (1)
 https://amarnettv.github.io/channels/maasranga.m3u8
 
@@ -371,8 +374,11 @@ http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD
 http://otv.ftpbd.net/streams/106/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD(*)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six
+http://103.107.160.20:8081/amrbd/sonysix/chunks.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
