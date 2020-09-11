@@ -297,6 +297,9 @@ http://178.132.3.162:88/Discovery/video.m3u8?token=test
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD Russia
 http://live-ng-01.more.tv:80/hls/Discovery_HD/index_1.m3u8
 
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science
 http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
 
