@@ -15,7 +15,7 @@ http://175.41.46.15/12.flv
 http://otv.ftpbd.net/streams/108/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga (1)
-https://amarnettv.github.io/channels/maasranga.m3u8
+http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/73998.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD(*)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/01.ts
@@ -38,6 +38,9 @@ http://45.249.187.238:8081/hls/new17.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="Bangla",Bangla Vision
 http://45.249.187.238:8081/hls/new6.m3u8
 
@@ -45,7 +48,7 @@ http://45.249.187.238:8081/hls/new6.m3u8
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_world.jpg" group-title="Bangla",BTV World
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/btv.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9(2)
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
@@ -63,7 +66,7 @@ http://45.249.187.238:8081/hls/live7.m3u8
 http://103.214.202.218:8081/live/channeli/chunks.m3u8
 	
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aVQLJ-NBIWE/maxresdefault.jpg" group-title="Bangla",Channel 24
-https://amarnettv.github.io/channels/channel24.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyoXd9c.png" group-title="Bangla",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
@@ -85,6 +88,9 @@ http://otv.ftpbd.net/streams/120/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/deepto-tv.jpg" group-title="Bangla",Deepto TV HD(2)
 http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV
+http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74009.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto Tv
 http://45.249.187.238:8081/hls/new3.m3u8
@@ -109,9 +115,6 @@ http://otv.ftpbd.net/streams/119/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ekushey_tv.jpg" group-title="Bangla",Ekushey TV
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="Bangla",DESH TV
-https://amarnettv.github.io/channels/desh.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Gaan_Bangla.png" group-title="Bangla",Gaan Bangla
 http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
@@ -164,7 +167,6 @@ http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24(2)
 http://103.214.202.218:8081/live/news24-24/chunks.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Bangla",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 
@@ -190,7 +192,7 @@ http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 http://103.214.202.218:8081/live/satv-22/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/somoy.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV
 http://45.249.187.238:8081/hls/hdmi2.m3u8
@@ -208,16 +210,22 @@ http://128.199.212.160/alif/1080/index.m3u8
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla
-https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74038.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="Bangla",Star Jalsa Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha HD
+http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha
 http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha HD
+http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74035.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
