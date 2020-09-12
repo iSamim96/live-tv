@@ -89,6 +89,9 @@ http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto Tv
 http://45.249.187.238:8081/hls/new3.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/63.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
 
@@ -112,6 +115,9 @@ https://amarnettv.github.io/channels/desh.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Gaan_Bangla.png" group-title="Bangla",Gaan Bangla
 http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Gaan_Bangla.png" group-title="Bangla",Gaan Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/69.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Gaan_Bangla.png" group-title="Bangla",Gaan Bangla
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
@@ -208,7 +214,7 @@ https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha
-http://robi.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
@@ -327,6 +333,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg"  group-title="Documentary",NATGEO WILD
 http://103.47.132.165/PLTV/88888888/224/3221227157/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg"  group-title="Documentary",NATGEO WILD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/60.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png"  group-title="Documentary",NAT GEO
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63557
 
@@ -409,10 +418,13 @@ http://103.214.202.218:8081/live/select2/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 (1)
-http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+http://45.249.187.238:8081/hls/new2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 2 (*)
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports
+http://45.249.187.238:8081/hls/new1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="Sports",PK Sports HD
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
@@ -499,7 +511,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/32.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD
-http://45.249.187.238:8081/hls/tsl-8.m3u8
+http://45.249.187.238:8081/hls/tsl-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg"  group-title="English Movies",HBO
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
