@@ -464,6 +464,9 @@ http://103.205.133.14/hls/chss2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports
 http://103.135.208.14/live/ibox/bd/53.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.creativemarket.com/0.1.0/ps/3759707/300/200/m2/fpnw/wm0/preview001-.jpg?1513763230&s=0eb4808eb7d4d27864d45c3a19a90468"  group-title="Sports",Sports
+http://103.84.253.5/live/fastfeed1002/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="Sports",PK Sports HD
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 
