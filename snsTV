@@ -47,6 +47,9 @@ http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV
+http://10.16.100.205/hls/boishakhi_720.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_world.jpg" group-title="Bangla",BTV World
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 
@@ -108,7 +111,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
 http://175.41.46.15/10.flv
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv(3)
-http://45.249.187.238:8081/hls/live6.m3u8
+http://10.16.100.205/hls/ekattor_hd_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv(4)
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
@@ -179,6 +182,9 @@ http://103.214.202.218:8081/live/news24-24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Bangla",Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Bangla",Peace TV Bangla
+http://10.16.100.207:8082/sports/peacetv.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU" group-title="Bangla",RTV BD
 http://45.249.187.238:8081/hls/live1.m3u8
 
@@ -204,7 +210,7 @@ http://103.214.202.218:8081/live/satv-22/chunks.m3u8
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV
-http://45.249.187.238:8081/hls/hdmi2.m3u8
+http://10.16.100.205/hls/somoy_tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV HD
 http://otv.ftpbd.net/streams/103/index.m3u8
@@ -219,7 +225,7 @@ http://128.199.212.160/alif/1080/index.m3u8
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla
-http://rv.therevenge.co:80/live/0YeiJ2arqP/nuDvIG0bE8/74038.m3u8
+http://10.16.100.204/hls/colorsbang.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="Bangla",Star Jalsa Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
@@ -456,7 +462,7 @@ http://103.135.208.14/live/ibox/bd/53.m3u8
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/isupportcause/uploads/overlay/isupportimg_1503550080191.png"  group-title="Sports",Skynet Sports
-http://45.249.187.238:8081/hls/new1.m3u8
+http://10.16.100.207:8082/sports/starsports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PiXDwF0.jpg"  group-title="Sports",Disports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
