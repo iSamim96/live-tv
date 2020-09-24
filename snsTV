@@ -23,9 +23,6 @@ http://10.16.100.201/hindi/bdgtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD(*)
-http://otv.ftpbd.net/streams/108/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga (1)
 http://103.205.133.44:1935/live/masranga/playlist.m3u8
 
