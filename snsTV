@@ -3,7 +3,7 @@
 #SOURCEIT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv
-http://45.249.187.238:8081/hls/live5.m3u8
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
 http://103.107.160.20:8081/amrbd/gazihd/chunks.m3u8
@@ -162,7 +162,7 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
 
 #EXTINF:-1 tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="Bangla",Jamuna Tv(2)
-http://45.249.187.238:8081/hls/live2.m3u8
+http://103.102.136.106:8080/cmcltv/jamuna.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",MOHONA TV
 http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
@@ -457,6 +457,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg"  group-title="Sports",Star Sports 1 HD
 http://otv.ftpbd.net/streams/104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg"  group-title="Sports",Star Sports 1
+http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 HD
 http://10.16.100.207:8082/sports/starsports2.m3u8
