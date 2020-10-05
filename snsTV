@@ -51,6 +51,9 @@ http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
+http://ccntv.anytv.live:8080/atnnews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="Bangla",Bangla Vision (ICC)
@@ -149,8 +152,11 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/69.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Gaan_Bangla.png" group-title="Bangla",Gaan Bangla
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv
+#EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv (ICC)
 http://10.16.100.203:8082/bangla/news_independent.m3u8
+
+#EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent TV 
+http://ccntv.anytv.live:8080/independent/preview.mp4
 
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
