@@ -23,6 +23,9 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV
+http://103.77.188.2:8081/live/gazi-tv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD
 http://103.138.183.6:1935/live/gtv.stream/chunklist_w2042192197.m3u8
 
