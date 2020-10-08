@@ -129,7 +129,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/63.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv(2)
-http://175.41.46.15/10.flv
+http://otv.ftpbd.net/streams/128/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv(3) (ICC)
 http://10.16.100.205/hls/ekattor_hd_720.m3u8
