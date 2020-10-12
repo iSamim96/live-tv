@@ -51,7 +51,7 @@ http://10.16.100.203:8082/bangla/atnbangla.m3u8
 https://ott.bingebd.com:443/live/ngrp:atn_bangla_all/chunklist_b2128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="Bangla",ATN Bangla
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
@@ -72,7 +72,7 @@ http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 http://10.16.100.205/hls/boishakhi_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_world.jpg" group-title="Bangla",BTV World
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9(2)
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
@@ -159,7 +159,7 @@ http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/69.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Gaan_Bangla.png" group-title="Bangla",Gaan Bangla
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv (ICC)
 http://10.16.100.203:8082/bangla/news_independent.m3u8
@@ -192,7 +192,7 @@ http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
 http://10.16.100.205/hls/mohona_tv_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangla",MY TV
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangla",MY TV
 http://10.16.100.205/hls/my_tv_720.m3u8
@@ -237,7 +237,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Bangla",RTV Music [BD]
-http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
@@ -258,13 +258,7 @@ http://10.16.100.205/hls/somoy_tv.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Bangla",TITAS SPORTS
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kxFshHZ.png" group-title="Bangla",Alif TV
-http://128.199.212.160/alif/1080/index.m3u8
-
-#EXTINF:-1 tvg-country="BD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0imCe_RZEwsH1bYqvO79lTyVS-6Nlnkp8wQ&usqp=CAU" group-title="Bangla",Channel S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla
 http://10.16.100.204/hls/colorsbang.m3u8
@@ -534,7 +528,7 @@ https://serve151.r.worldssl.net/cricket/star1/chunks.m3u8
 http://212.47.252.54/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="Sports",PK Sports HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/isupportcause/uploads/overlay/isupportimg_1503550080191.png"  group-title="Sports",Skynet Sports
 http://10.16.100.207:8082/sports/starsports2.m3u8
