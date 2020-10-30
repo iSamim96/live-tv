@@ -17,7 +17,7 @@ https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD* (ICC)
 http://10.16.100.201/hindi/bdgtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD ( Low Quality )
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD
@@ -239,6 +239,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla 
 http://10.16.100.204/hls/zee_bangla_720.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla 
+http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla HD
 http://ccntv.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
 
@@ -252,7 +255,7 @@ http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
-http://ccntv.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
 http://10.16.100.204/hls/sony_aath.m3u8
@@ -357,7 +360,7 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png"  group-title="Sports",Sony Ten 3 HD
-http://10.16.100.201/hindi/cm_sonyten3.m3u8
+https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png"  group-title="Sports",Sony Ten 3 (*)
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
@@ -366,16 +369,16 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
-http://otv.ftpbd.net/streams/105/index.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD
-http://otv.ftpbd.net/streams/112/index.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD
 http://otv.ftpbd.net/streams/106/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six
-http://103.107.160.20:8081/amrbd/sonysix/chunks.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six
 http://103.107.160.20:8081/amrbd/sonysix/chunks.m3u
@@ -432,7 +435,7 @@ http://103.205.133.14/hls/chss2.m3u8
 https://serve151.r.worldssl.net/cricket/star1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.creativemarket.com/0.1.0/ps/3759707/300/200/m2/fpnw/wm0/preview001-.jpg?1513763230&s=0eb4808eb7d4d27864d45c3a19a90468"  group-title="Sports",Sports
-http://212.47.252.54/hls/stream.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="Sports",PK Sports HD
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
