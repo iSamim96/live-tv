@@ -6,7 +6,7 @@
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
-http://103.107.160.20:8081/amrbd/gazihd/chunks.m3u8
+http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD (ICC FTP)
 http://10.16.100.207:8082/sports/bdchgazi.m3u8
