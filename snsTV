@@ -113,6 +113,9 @@ http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto Tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto Tv
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
 
@@ -120,10 +123,13 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
 http://10.16.100.205/hls/ekattor_hd_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ekushey_tv.jpg" group-title="Bangla",Ekushey TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ekushey_tv.jpg" group-title="Bangla",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ekushey_tv.jpg" group-title="Bangla",Ekushey TV (ICC)
 http://10.16.100.203:8082/bangla/ekusheytv.m3u8
@@ -219,7 +225,7 @@ http://103.107.160.20:8081/amrbd/colorsbangla/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star jalsha HD
-http://ccntv.anytv.live:8080/star-jalsha/tracks-v1a1/mono.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha
 http://10.16.100.204/hls/star_jalsha.m3u8
@@ -241,6 +247,9 @@ http://10.16.100.204/hls/zee_bangla_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla 
 http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla 
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla HD
 http://ccntv.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
@@ -615,7 +624,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movies",HBO (1)
-http://45.249.187.238:8081/hls/new13.m3u8
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/45.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Cartoon",CARTOON NETWORK HD
 http://45.249.187.238:8081/hls/new14.m3u8
@@ -626,8 +635,8 @@ http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="Cartoon",POGO (!)
 http://45.249.187.238:8081/hls/hdmi1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Hindi Movies",Sony Max
-https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b564000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Hindi Movies",Sony Max HD
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="Hindi Movies",Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
