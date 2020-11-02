@@ -3,13 +3,13 @@
 #SOURCEIT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+http://10.16.100.207:8082/sports/bdchgazi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD (ICC FTP)
-http://10.16.100.207:8082/sports/bdchgazi.m3u8
+http://10.16.100.203:8082/bangla/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD  (Bufferless)
 https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
