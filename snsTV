@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv
 http://10.16.100.207:8082/sports/bdchgazi.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV
+http://43.251.86.6:8080/hls/channel_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
 http://103.107.160.20:8081/amrbd/gazihd/chunks.m3u8
 
@@ -22,6 +25,9 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD
+http://c1live.com:8081/c1live/gazi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga (1)
 http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
@@ -105,7 +111,7 @@ http://10.16.100.203:8082/bangla/deeptotv.m3u8
 http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV
-https://ott.bingebd.com/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_desh_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/chunklist_b1228000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto Tv
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
@@ -120,7 +126,7 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.ts
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv(3) (ICC)
-http://10.16.100.205/hls/ekattor_hd_720.m3u8
+http://c1live.com:8081/c1live/ekattor/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
@@ -141,10 +147,10 @@ http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
 
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv (ICC)
-http://10.16.100.203:8082/bangla/news_independent.m3u8
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_independent_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/chunklist_b1228000.m3u8
 
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent TV 
-http://ccntv.anytv.live:8080/independent/preview.mp4
+http://c1live.com:8081/c1live/independent/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
@@ -207,10 +213,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV
-http://103.102.136.106:8080/cmcltv/somoy.m3u8
+http://c1live.com:8081/c1live/somoy/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV (ICC)
-http://10.16.100.205/hls/somoy_tv.m3u8
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_somoy_newsPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/chunklist_b1228000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
