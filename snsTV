@@ -150,7 +150,7 @@ http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
 
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv (ICC)
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_independent_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/chunklist_b1228000.m3u8
+http://10.16.100.203:8082/bangla/news_independent.m3u8
 
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
@@ -213,10 +213,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_somoy_newsPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/chunklist_b1228000.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605208225/ei/QDStX8vFOcSKssUPtbOkmA4/ip/103.120.32.219/id/KgiwN7ddb2U.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcE6U7OrtMSq5QC-08tyu-yFNIM0lIQNX5Z_TV1b39xQCIBsvgikrv2jIPFAm400hR5eTWmsSHr_45cAsai3fghX_/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV (ICC)
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_somoy_newsPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/chunklist_b1228000.m3u8
+http://10.16.100.205/hls/somoy_tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
