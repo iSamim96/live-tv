@@ -50,11 +50,14 @@ http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="Bangla",ATN Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="Bangla",ATN Bangla
+http://103.76.243.66:8000/hls/atnbangla.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_atn_newsTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b3128000.m3u8
+http://103.76.243.66:8000/hls/atnnews.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
@@ -65,8 +68,14 @@ http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="Bangla",Bangla Vision 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="Bangla",Bangla Vision 
+http://103.76.243.66:8000/hls/banglavision.m3u8?
+
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="Bangla",Bangla TV
 http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="Bangla",Bangla TV
+http://103.76.243.66:8000/hls/banglatv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
@@ -80,6 +89,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9(2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9
+http://103.76.243.66:8000/hls/ninechannel.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9 (ICC)
 http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
 
@@ -89,8 +101,14 @@ http://10.16.100.203:8082/bangla/i_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
 
+#EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I
+http://103.76.243.66:8000/hls/ichannel.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aVQLJ-NBIWE/maxresdefault.jpg" group-title="Bangla",Channel 24
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aVQLJ-NBIWE/maxresdefault.jpg" group-title="Bangla",Channel 24
+http://103.76.243.66:8000/hls/channel24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aVQLJ-NBIWE/maxresdefault.jpg" group-title="Bangla",Channel 24
 https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_channel_24TRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b2128000.m3u8
@@ -102,7 +120,7 @@ http://128.199.212.160/channelt1/1080/index.m3u8
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News HD
-http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
+http://103.76.243.66:8000/hls/dbcnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News HD
 http://103.214.202.218:8081/live/dbc/chunks.m3u8
@@ -114,7 +132,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/deepto-tv.jpg" group-title="Bangla",Deepto TV HD(2)
-http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+http://103.76.243.66:8000/hls/deeptotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV
 https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_desh_tvTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b2128000.m3u8
@@ -159,7 +177,7 @@ http://10.16.100.203:8082/bangla/news_independent.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
 
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_independent_tvTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b2128000.m3u8
+https://ott.bingebd.com/live/ngrp:independent_tv_all/chunklist_b2128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Bangla",IQRA TV
 http://10.16.100.207:8082/sports/sunnahtv.m3u8
@@ -169,6 +187,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
 
 #EXTINF:-1 tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="Bangla",Jamuna Tv(2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="Bangla",Jamuna TV
+http://103.76.243.66:8000/hls/jamunatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="Bangla",Jamuna TV (ICC)
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
@@ -194,6 +215,9 @@ http://103.214.202.218:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="Bangla",NTV BD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="Bangla",NTV BD
+http://103.76.243.66:8000/hls/ntv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="Bangla",NTV (ICC)
 http://10.16.100.205/hls/ntv_b_720.m3u8
 
@@ -201,7 +225,7 @@ http://10.16.100.205/hls/ntv_b_720.m3u8
 http://103.102.136.106:8080/cmcltv/news24.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24(2)
-http://103.107.160.20:8081/amrbd/news24/chunks.m3u8
+http://103.76.243.66:8000/hls/news24.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Bangla",Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
@@ -213,10 +237,16 @@ http://10.16.100.207:8082/sports/peacetv.m3u8
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU" group-title="Bangla",RTV BD
+http://103.76.243.66:8000/hls/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU" group-title="Bangla",RTV BD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
 
 #EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
+
+#EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV
+http://103.76.243.66:8000/hls/satv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605208225/ei/QDStX8vFOcSKssUPtbOkmA4/ip/103.120.32.219/id/KgiwN7ddb2U.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcE6U7OrtMSq5QC-08tyu-yFNIM0lIQNX5Z_TV1b39xQCIBsvgikrv2jIPFAm400hR5eTWmsSHr_45cAsai3fghX_/file/index.m3u8
@@ -234,7 +264,7 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla
 http://10.16.100.204/hls/colorsbang.m3u8
@@ -267,7 +297,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 http://10.16.100.204/hls/zee_bangla_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla 
-http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
+http://103.76.243.66:8000/hls/zeebangla.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="Bangla",Zee Bangla 
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
