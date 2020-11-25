@@ -3,7 +3,7 @@
 #SOURCEIT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv
-http://10.16.100.207:8082/sports/bdchgazi.m3u8
+http://103.144.200.7:8080/hls/bgazitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV
 http://43.251.86.6:8080/hls/channel_1.m3u8
@@ -11,23 +11,14 @@ http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD
 http://103.107.160.20:8081/amrbd/gazihd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD (ICC FTP)
-http://10.16.100.203:8082/bangla/gtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD  (Bufferless)
 https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD* (ICC)
-http://10.16.100.201/hindi/bdgtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD ( Low Quality )
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD
-http://c1live.com:8081/c1live/gazi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga (1)
 http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
