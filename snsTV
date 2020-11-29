@@ -261,7 +261,7 @@ http://103.132.180.245:8080/3/index.m3u8
 http://aklivetv.com:8080/news24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Bangla",Peace TV Bangla
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU" group-title="Bangla",RTV BD (EBOX)
 http://tv2.ebox.live:8080/live/rtv.m3u8
@@ -300,7 +300,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
 http://tv2.ebox.live:8080/live/titashtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports *
-https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
+http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
