@@ -89,6 +89,9 @@ http://103.132.180.245:8080/10/index.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="Bangla",Bangla TV (EBOX)
 http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="Bangla",Bangla TV (EBOX)
+https://templv3.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 
