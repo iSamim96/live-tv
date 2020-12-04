@@ -9,7 +9,7 @@ http://103.132.180.245:8080/1/index.m3u8
 http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV
-http://103.144.200.7:8080/hls/bgazitv/index.m3u8
+http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV
 http://43.251.86.6:8080/hls/channel_1.m3u8
