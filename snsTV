@@ -249,7 +249,7 @@ http://aklivetv.com:8080/news24/tracks-v1a1/mono.m3u8
 http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Bangla",Peace TV Bangla
-http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU" group-title="Bangla",RTV BD (EBOX)
 http://tv2.ebox.live:8080/live/rtv.m3u8
