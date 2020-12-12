@@ -41,9 +41,6 @@ http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="Bangla" group-title="Bangla",Asian TV (EBOX)
 http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="Bangla" group-title="Bangla",Asian TV (AKliveTV)
-http://aklivetv.com:8080/durantotv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="Bangla" group-title="Bangla",Asian TV 
 http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
 
