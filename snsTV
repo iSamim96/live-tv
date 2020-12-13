@@ -393,7 +393,7 @@ https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery
-https://zero4tv.anytv.live/discoverybangla/index.m3u8
+https://any.hitectv.live:4443/starsp2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
