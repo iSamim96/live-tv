@@ -495,7 +495,7 @@ http://103.49.168.172:8081/ebox/six/chunks.m3u8
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg"  group-title="Sports",Star Sports 1 HD
-https://ccntv.anytv.live/starsp1/index.m3u8
+https://any.hitectv.live:4443/starsp1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg"  group-title="Sports",Star Sports 1 HD(EBOX2)
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
@@ -507,7 +507,7 @@ http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 HD
-https://ccntv.anytv.live/starsp2/index.m3u8
+https://any.hitectv.live:4443/starsp2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 HD (EBOX2)
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
