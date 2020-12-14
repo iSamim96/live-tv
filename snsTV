@@ -291,7 +291,7 @@ https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 http://103.151.197.6/channel1/myStream_360p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports
-https://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
+http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD ( Live )
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
@@ -363,7 +363,7 @@ https://zero4tv.anytv.live/sonyaath/index.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema HD (EBOX)
 http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
