@@ -15,7 +15,7 @@ http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
 http://43.251.86.6:8080/hls/channel_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD  (Bufferless)
-https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
+http://182.48.82.131/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD ( Low Quality )
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
@@ -310,7 +310,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (Appgate)
-https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
+http://182.48.82.131/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (BDFun)
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
