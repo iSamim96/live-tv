@@ -195,7 +195,13 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.m3u8
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv HD
+http://163.172.29.246:8081/globalbd/ekattor/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv HD (FTPBD)
+http://otv.ftpbd.net/streams/128/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ekushey_tv.jpg" group-title="Bangla",Ekushey TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.m3u8
