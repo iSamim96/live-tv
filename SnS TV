@@ -8,8 +8,8 @@ http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (OTT)
 http://103.132.180.245:8080/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv (EBOX)
-http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV
 http://43.251.86.6:8080/hls/channel_1.m3u8
@@ -19,9 +19,6 @@ http://182.48.82.131/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD ( Low Quality )
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga (1)
 http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
@@ -86,13 +83,13 @@ http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="Bangla",Bangla Vision  (JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="Bangla", Bangla TV (EBOX)
+#EXTINF:-1 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo.png" group-title="Bangla", Bangla TV (EBOX)
 http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="Bangla", Bangla TV
+#EXTINF:-1 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo.png" group-title="Bangla", Bangla TV
 http://163.172.29.246:8081/globalbd/banglatv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="Bangla",Bangla TV (JagoBD)
+#EXTINF:-1 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo.png" group-title="Bangla",Bangla TV (JagoBD)
 https://templv3.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV (JagoBD)
@@ -338,6 +335,9 @@ http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (4646)
 http://175.41.46.16:8081/hls/11.m3u8
 
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla", T Sports (EBOX)
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (Appgate)
 http://182.48.82.131/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
@@ -494,6 +494,9 @@ http://tv2.ebox.live:8080/live/ten-sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports (EBOX)
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
