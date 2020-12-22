@@ -465,7 +465,7 @@ http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD
+#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD(EBOX2)
 http://tv2.ebox.live:8080/live/natg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png"  group-title="Documentary",History TV India
@@ -561,11 +561,11 @@ http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD(EBOX2)
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD(FTPBD)
 http://otv.ftpbd.net/streams/113/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg"  group-title="Sports",Star Sports Select 2 (EBOX2)
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
@@ -678,8 +678,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg"  group-title="English Movies",HBO
-http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg"  group-title="English Movies",HBO (EBOX2)
+http://tv2.ebox.live:8080/live/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/10/15/Untitled-1_31.jpg" group-title="English Movies",Romedy Now
 http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
