@@ -533,6 +533,9 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/60.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png"  group-title="Documentary",NAT GEO (EBOX)
 http://tv2.ebox.live:8080/live/natg.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg"  group-title="Documentary", travel XP
+http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary", BBC EARTH  
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.m3u8
 
