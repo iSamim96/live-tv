@@ -5,8 +5,11 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD
 http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD (Smartbox)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (Smartbox)
 http://203.80.191.234:8089/load/gazitv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD (Smartbox)
+http://203.80.191.234:8089/abir/gazi_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
