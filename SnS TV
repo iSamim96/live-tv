@@ -368,11 +368,14 @@ http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla", T Sports (EBOX)
 http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (Appgate)
-http://182.48.82.131/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
-
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports
 http://45.127.244.7:8080/hls/channel2.m3u8
+
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla", T Sports (Smartbox)
+http://203.80.191.234:8089/load/tsports/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (Appgate)
+http://182.48.82.131/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD ( Live )
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
