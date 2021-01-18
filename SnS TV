@@ -12,7 +12,7 @@ http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
 http://103.144.200.7:8080/hls/bgazitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD  (BDCast)
-https://edge-sgp.bd-cast.net/master/bee-sgp.default.svc.cluster.local:8080/beeiptv-stb/gazitv/chunks.m3u8?nimblesessionid=153778&e=1610986062&st=hHpMvjpohZXzTsrhQf5a2g
+https://edge-sgp.bd-cast.net/master/bee-sgp.default.svc.cluster.local:8080/beeiptv-stb/gazitv/chunks.m3u8?e=1610986600&st=k8MkW76IJfWLgFRRouwkAQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD ( Low Quality )
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
