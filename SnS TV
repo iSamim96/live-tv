@@ -177,7 +177,7 @@ http://ctgiptv.kitv.live:1935/live/test/test1/12.m3u8
 http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv HD
-http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
+http://otv.ftpbd.net/streams/128/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
@@ -424,6 +424,9 @@ http://tv2.ebox.live:8080/live/discovery.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.m3u8
+
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi
+http://otv.ftpbd.net/streams/121/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
