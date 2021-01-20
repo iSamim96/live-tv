@@ -368,14 +368,11 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (EBOX)
 http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
-https://khulnalive.anytv.live/sonyaath/index.m3u8
+#EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla
-https://any.hitectv.live:4443/colorsbangla/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla
-https://khulnalive.anytv.live/colorsbangla/index.m3u8
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla (EBOX)
 http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
@@ -418,9 +415,6 @@ http://tv2.ebox.live:8080/live/animale-planet.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-
-#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery
-https://khulnalive.anytv.live/discoverybangla/index.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD 
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
