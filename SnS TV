@@ -24,7 +24,7 @@ http://tv2.ebox.live:8080/live/maasranga.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="Bangla" group-title="Bangla",Asian TV (EBOX)
-http:/103.49.168.171:8081/ebox/bd_asian_tv/chunks.m3u8
+http://103.49.168.171:8081/ebox/bd_asian_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="Bangla" group-title="Bangla",Asian TV 
 http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
