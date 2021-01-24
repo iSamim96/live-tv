@@ -44,9 +44,6 @@ http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News (OTT)
 http://103.144.200.7:8080/hls/atnnews/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News
-https://any.hitectv.live:4443/atnnews/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="Bangla",ATN News (EBOX2)
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 
@@ -83,8 +80,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV (EBOX2)
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV 
-http://163.172.29.246:8081/globalbd/boishakhi/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV (EBOX)
+http://103.49.168.171:8081/ebox/bd_boishakhi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_world.jpg" group-title="Bangla",BTV World
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.m3u8
@@ -100,9 +97,6 @@ http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9 (EBOX2)
 http://tv2.ebox.live:8080/live/channel9.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I 
-http://163.172.29.246:8081/globalbd/channeli/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.m3u8
