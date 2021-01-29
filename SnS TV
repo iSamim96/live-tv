@@ -743,6 +743,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Hindi Music", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2f20160517221047780336_hungama-digital.gif" group-title="Hindi Music", Hungama Digital (Hungama)
+https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg" group-title="Hindi",Sony TV (kitv)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.m3u8
 
@@ -784,9 +787,6 @@ http://otv.ftpbd.net/streams/111/index.m3u8
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" ,HBO Hits (kitv)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
-
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/qlDIXH7.png" ,Romedy Now (EBOX)
-http://103.49.168.171:8081/ebox/in_romedy_now/chunks.m3u8
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/X6jZnUy.png" ,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
