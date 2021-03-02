@@ -80,6 +80,9 @@ http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9 (EBOX2)
 http://tv2.ebox.live:8080/live/channel9.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9 (cmcltv)
+http://103.102.136.106:8080/cmcltv/channel9.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (JagoBD)
 https://rhridoy136.shortcm.li/channeli.m3u8
 
@@ -103,6 +106,9 @@ http://tv2.ebox.live:8080/live/dbc.m3u8
 
 #EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News HD (EBOX)
 http://103.49.168.171:8081/ebox/bd_dbc_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News HD (EBOX)
+http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News HD (JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
@@ -128,8 +134,8 @@ http://103.49.168.171:8081/ebox/bd_duronto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor Tv HD (FTPBD)
 http://otv.ftpbd.net/streams/128/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (kitv)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (cmcltv)
+http://103.102.136.106:8080/cmcltv/ekator.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV HD (EBOX)
 http://103.49.168.171:8081/ebox/bd_ekattor_tv/chunks.m3u8
@@ -271,6 +277,9 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (EBOX)
 http://103.49.168.171:8081/ebox/in_sonyaath/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (cmcltv)
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla (EBOX2)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
@@ -431,8 +440,8 @@ http://103.49.168.171:8081/ebox/six/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN HD (EBOX2)
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD (Sync Online)
-http://103.80.70.59/hls/stream15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD (cmcltv(
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD (EBOX2)
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
