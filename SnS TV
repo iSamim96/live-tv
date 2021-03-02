@@ -6,7 +6,7 @@
 http://tv.neobd.net:1935/live/tv2/chunklist_w1824446364.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (aklive)
-http://aklivetv.com:8080/gazitv/tracks-v1a1/mono.m3u8
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (OTT)
 http://103.144.200.7:8080/hls/bgazitv/index.m3u8
