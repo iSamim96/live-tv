@@ -185,8 +185,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="Bangla",NAGORIK TV(EBOX)
 http://103.49.168.171:8081/ebox/bd_nagorik_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="Bangla",NAGORIK TV (Link 71)
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="Bangla",NAGORIK TV (Sync Online)
+http://103.153.175.254:8080/hls/stream24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="Bangla",NTV BD (EBOX)
 http://103.49.168.171:8081/ebox/bd_ntv/chunks.m3u8
@@ -233,8 +233,8 @@ http://103.49.168.171:8081/live/tsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (45)
 http://45.127.244.7:8080/hls/channel2.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (FTPBD)
-http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (Link71)
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (Appgate)
 http://182.48.82.131/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
@@ -308,8 +308,8 @@ https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://aldawah.tv/wp-content/themes/al_dawah/images/logo.png" group-title="Bangla",AL Dawah TV (JagoBD)
 https://bdsl.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi (multitvsolution)
-http://itvorigin.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi (Sync Online)
+http://103.153.175.254:8080/hls/stream6.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet (multitvsolution)
 https://itvorigin.multitvsolution.com/idvo/aphd_540p/index.m3u8
@@ -344,8 +344,8 @@ http://itvorigin.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/investigation-discovery.png" group-title="Documentary",Discovery ID (multitvsolution)
 http://itvorigin.multitvsolution.com/idvo/investigationdiscovery_540p/index.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD (FTPBD)
-http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD (Sync Online)
+http://103.153.175.254:8080/hls/stream13.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
@@ -363,7 +363,7 @@ https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
 http://103.49.168.171:8081/ebox/in_tlc_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg"  group-title="Documentary",NATGEO WILD (SyncOnline)
-http://103.153.175.254:8080/hls/stream13.m3u8
+http://tvserver3.roarzone.info:25461/live/free/roarzone/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png"  group-title="Documentary",NAT GEO (EBOX)
 http://tv2.ebox.live:8080/live/natg.m3u8
@@ -451,6 +451,9 @@ http://45.127.244.7:8080/hls/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg"  group-title="Sports",Star Sports 1 HD Hindi (EBOX2)
 http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg"  group-title="Sports",Star Sports 1 HD Hindi (kyteTv)
+http://live.kytetv.cf/StarSports1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports", Star Sports 1 HD (Link 71)
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
