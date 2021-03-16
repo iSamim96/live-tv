@@ -155,10 +155,10 @@ http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Bangla",Gaan Bangla (ThunderBD)
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/58.m3u8
 
-#EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv (EBOX)
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180803/soh/kisspng-logo-bangladesh-independent-television-television-independent_television_logo-svg-wikiomni-5b64eb17bf6d82.2153690615333404397841.jpg" group-title="Bangla",independent Tv (EBOX)
 http://103.49.168.171:8081/ebox/bd_independent_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bangla",independent Tv (JagoBD)
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180803/soh/kisspng-logo-bangladesh-independent-television-television-independent_television_logo-svg-wikiomni-5b64eb17bf6d82.2153690615333404397841.jpg" group-title="Bangla",independent Tv(JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="Bangla",Jamuna TV (EBOX2)
