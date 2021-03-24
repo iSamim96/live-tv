@@ -693,7 +693,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://otv.ftpbd.net/streams/124/index.m3u8
 
 #EXTINF:1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2011/12/New-UTV-Action-logo.jpg" group-title="Hindi Movies",UTV Action (Sync Online)
-http://103.153.175.254:8080/hls/stream7.m3u8
+http://185.246.209.207/HINDI_UTV_ACTION/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png" group-title="Hindi Music",masti (OTT)
 http://103.144.200.7:8080/hls/masti2/index.m3u8
