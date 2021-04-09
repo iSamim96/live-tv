@@ -572,8 +572,8 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://cutt.ly/1cBPxsD" ,& flix
 http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
 
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://cutt.ly/ncBPJmh" ,& TV
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://cutt.ly/ncBPJmh" ,& TV
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://cutt.ly/zcBP8yj" ,& explorer
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://cutt.ly/zcBP8yj" ,& explorer
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
