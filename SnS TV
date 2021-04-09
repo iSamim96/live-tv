@@ -521,6 +521,9 @@ http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png"  group-title="English Movies",Lotus Macau (EBOX2)
 http://tv2.ebox.live:8080/live/hbo.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332"  group-title="Hindi Music",9xm
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg"  group-title="Hindi Music",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 
@@ -562,3 +565,12 @@ http://103.153.175.254:8080/hls/stream3.m3u8
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/IpKuSbU.png" ,AXN
 http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://cutt.ly/1cBPxsD" ,& flix
+http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
+
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://cutt.ly/ncBPJmh" ,& TV
+http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
+
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://cutt.ly/zcBP8yj" ,& explorer
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
