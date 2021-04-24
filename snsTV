@@ -320,7 +320,7 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (EBOX2)
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (EBOX2)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (qqtv.nl)
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7999.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.realmadrid.com/img/horizontal_940px/logotipo_rmtv_940x400thumb_h_20200128014053.jpg"  group-title="Sports", Real Madrid TV (akamai)
