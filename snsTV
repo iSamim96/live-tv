@@ -422,11 +422,8 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ndtvimg.com/i/2014-12/ndtv24x7_640x480_71419357330.jpg" group-title="News", NDTV 24x7 (akamai)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Cartoon",Disney (FTPBD)
-http://otv.ftpbd.net/streams/122/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon", Cartoon Network (DFNBD)
-https://tv.dfnbd.net/hls/channel15.m3u8
+http://45.127.244.7:8080/hls/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/chunks.m3u8
@@ -503,13 +500,13 @@ https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg" group-title="Hindi",Sony TV HD (PK)
 http://221.120.204.4/SONY-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg" group-title="Hindi Movies",Sony Max  (DFNBD)
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi Movies",Sony MAX  (DFNBD)
 http://45.127.244.7:8080/hls/channel14.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg" group-title="Hindi Movies",Sony Max HD (EBOX2)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/bxhf7wc" group-title="Hindi Movies",Sony MAX HD (EBOX2)
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZXtNzRp6VAE/hqdefault.jpg" group-title="Hindi Movies",Sony Max2 
+#EXTINF:-1 tvg-logo="https://www.skychannellist.com/images/sony-max-2.png" group-title="Hindi Movies",Sony Max2 
 http://208.115.215.42/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cutt.ly/DvAFpug" group-title="Hindi Movies",WoW Cinema (multitvsolution)
