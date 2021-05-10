@@ -236,8 +236,8 @@ http://itvorigin.multitvsolution.com/idvo/investigationdiscovery_540p/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD (EBOX2)
-http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD (DataCamp)
+http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC Hindi (multitvsolution)
 https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
@@ -535,3 +535,5 @@ https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://www.adgully.com/img/800/55144_-pictures.jpg" ,& Pictures HD (akamai)
 http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+
+
