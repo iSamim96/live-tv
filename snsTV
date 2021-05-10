@@ -550,3 +550,6 @@ https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://www.adgully.com/img/800/55144_-pictures.jpg" ,& Pictures HD (akamai)
 http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2019/04/rishtey-cineplex_1555156123.jpg" group-title="Hindi Movies",Rishtey Cineplex (multitvsolution)
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
