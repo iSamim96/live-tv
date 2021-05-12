@@ -44,8 +44,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="Bangla",Boishakhi TV (EBOX2)
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_world.jpg" group-title="Bangla",BTV (JagoBD)
+#EXTINF:-1 tvg-logo="http://tv.flashnetbd.net/img/channels/btv_world.png" group-title="Bangla",BTV World (JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://mcmscache.epapr.in/post_images/website_350/post_15707961/thumb.jpg" group-title="Bangla",BTV (amarnet)
+http://103.106.2.149:13456/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="Bangla",Channel 9 (DFNBD)
 http://45.127.244.25:8080/25/index.m3u8
@@ -142,6 +145,9 @@ http://tv2.ebox.live:8080/live/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU" group-title="Bangla",RTV BD (JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad Bangladesh (Amarnet)
+http://103.106.2.149:13456/sangsad.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV (JagoBD)
 https://rhridoy136.shortcm.li/satv.m3u8
