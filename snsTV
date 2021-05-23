@@ -362,8 +362,8 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" group-title="Sports",Ad Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (EBOX2)
-http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (oqab)
+http://oqab.life:8080/live/8181/8181/242.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (hopto)
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
