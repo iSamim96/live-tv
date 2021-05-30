@@ -26,6 +26,9 @@ http://45.127.244.25:8080/21/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="Bangla",ATN Bangla (amberIT)
 http://118.179.92.39/hls/ATNBangla/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="Bangla",ATN Bangla (BingeBD)
+https://ott.bingebd.com/live/ngrp:atn_bangla_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (EBOX2)
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 
@@ -212,8 +215,8 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (Appgate)
 https://streamcdn.getloconow.com/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a_hi/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD ( Millennium )
-http://45.76.183.55:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD ( amrBD )
+http://103.89.244.14:8082/GAZI/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD(EBOX2)
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
@@ -301,6 +304,9 @@ https://itvorigin.multitvsolution.com/idvo/tlchd.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.153.175.254:8080/img/bbcearth.jpg"  group-title="Documentary",BBC Earth (Sync Online)
 http://103.153.175.254:8080/hls/stream5.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.153.175.254:8080/img/bbcearth.jpg"  group-title="Documentary",Sony BBC Earth ( amrBD )
+http://103.89.244.14:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.153.175.254:8080/img/travelxphd.jpg"  group-title="Documentary",TravelXP Hindi 
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
@@ -536,6 +542,9 @@ http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Hindi Movies",Star Gold (DFNBD)
 http://45.127.244.7:8080/hls/channel16.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Hindi Movies",Star Gold HD (BingeBD)
+https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",Star Gold Select HD (EBOX2)
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 
@@ -544,6 +553,9 @@ http://tv2.ebox.live:8080/live/zee-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="Hindi",Star Plus HD (PK)
 http://221.120.204.4/star-plus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="Hindi",Star Plus HD (BingeBD)
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD (EBOX2)
 http://tv2.ebox.live:8080/live/star-movies.m3u8
