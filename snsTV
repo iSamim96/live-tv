@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (DFNBD)
 http://45.127.244.7:8080/hls/channel3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (AmberIT)
+http://118.179.92.39/hls/btv1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi Tv HD ( Link 71 )
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
