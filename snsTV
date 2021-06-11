@@ -299,8 +299,8 @@ https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science English (multitvsolution)
 https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentary",Discovery Turbo (multitvsolution)
-http://itvorigin.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ais.th/play/images/channel/ch_logo_asia.jpg" group-title="Documentary",Discovery Asia (fptplay)
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/investigation-discovery.png" group-title="Documentary",Discovery ID (multitvsolution)
 http://itvorigin.multitvsolution.com/idvo/investigationdiscovery_540p/index.m3u8
