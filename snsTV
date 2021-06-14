@@ -482,21 +482,6 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/vpc43zxm" group-title="Sports" , English Premier League (livedomovie)
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a1/9a/a6/a19aa64d191a64e606488bd14136ce25.jpg" group-title="Sports" , Skynet sports 1
-https://cmt.mb13.cyou/uni/livedo/skynetsports1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ass-media.de/pic/upload/2016/06/09/20160609194909-73920302.png" group-title="Sports" , Skynet sports 2
-https://cmt.mb13.cyou/uni/livedo/skynetsports2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ass-media.de/pic/upload/2016/06/09/20160609194909-73920302.png" group-title="Sports" , Skynet sports 3
-https://cmt.mb13.cyou/uni/livedo/skynetsports3.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ass-media.de/pic/upload/2016/06/09/20160609194909-73920302.png" group-title="Sports" , Skynet sports 4
-https://cmt.mb13.cyou/uni/livedo/skynetsports4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ass-media.de/pic/upload/2016/06/09/20160609194909-73920302.png" group-title="Sports" , Skynet sports 5
-https://cmt.mb13.cyou/uni/livedo/skynetsports5.m3u8
-
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/01/images-1-3-1.png" group-title="Sports" , True Football Premiere HD1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
@@ -505,6 +490,9 @@ http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports" ,  Sports TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="Sports" ,  Sports TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/uvpqvr1470410094.png" group-title="Sports" , Sports TV 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
