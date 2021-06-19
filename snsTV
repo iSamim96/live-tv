@@ -356,8 +356,8 @@ http://10.100.100.134/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (EBOX2)
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (FuntimeBD)
+http://103.109.56.116/live/skyfeed1019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD (EBOX2)
 http://tv2.ebox.live:8080/live/sonysix.m3u8
