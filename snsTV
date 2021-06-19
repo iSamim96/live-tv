@@ -242,8 +242,8 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (DFNBD)
 http://45.127.244.25:8080/48/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (naturalBD)
-http://cdn.naturalbd.com:8083/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (Toffeebd)
+https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla (EBOX2)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
@@ -311,8 +311,8 @@ http://edge04.beetv.kz/btv/SWM/TLC/TLC_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://103.153.175.254:8080/img/bbcearth.jpg"  group-title="Documentary",BBC Earth (fptplay)
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.153.175.254:8080/img/bbcearth.jpg"  group-title="Documentary",Sony BBC Earth ( amrBD )
-http://103.89.244.14:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://103.153.175.254:8080/img/bbcearth.jpg"  group-title="Documentary",Sony BBC Earth ( Toffee )
+https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="http://103.153.175.254:8080/img/travelxphd.jpg"  group-title="Documentary",TravelXP Hindi 
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
