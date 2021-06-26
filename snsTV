@@ -8,6 +8,9 @@ http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (amberIT)
 http://118.179.92.39/hls/BTV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDcableTV)
+http://jupiter.bdcabletv.com/Gazi_SP/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD (EBOX2)
 http://tv2.ebox.live:8080/live/maasranga.m3u8
 
@@ -116,6 +119,9 @@ http://118.179.92.39/hls/ekattar/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (FuntimeBD)
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (BDcableTV)
+http://jupiter.bdcabletv.com/Ekattor-HD-IRD/video.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDCom)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
@@ -157,6 +163,9 @@ http://45.127.244.25:8080/32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV(SK Traders)
 http://103.81.104.118/hls/stream24.m3u8
+
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV(BDcableTV)
+http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (DFNBD)
 http://45.127.244.25:8080/23/index.m3u8
@@ -203,12 +212,6 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (Link 71)
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD ( ihub )
-http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD ( naturalbd )
-https://cdn.naturalbd.com/j-TSports/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD(EBOX2)
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
@@ -254,6 +257,9 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet (EBOX2)
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
 
+#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet (FuntimeBD)
+http://103.109.56.116/live/skyfeed1016/index.m3u8
+
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (fptplay)
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
 
@@ -265,6 +271,9 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD  (EBOX2)
 http://tv2.ebox.live:8080/live/discovery.m3u8
+
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD (FuntimeBD)
+http://103.109.56.116/live/skyfeed1015/index.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (multitvsolution)
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
@@ -317,6 +326,9 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports (PK)
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports (BDCableTV)
+http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports (EBOX2)
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
 
@@ -352,6 +364,9 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (FuntimeBD)
 http://103.109.56.116/live/skyfeed1019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (BDcableTV)
+http://jupiter.bdcabletv.com/ten_3-sim/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD (EBOX2)
 http://tv2.ebox.live:8080/live/sonysix.m3u8
