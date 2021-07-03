@@ -110,6 +110,9 @@ https://ott.bingebd.com/live/ngrp:duronto_tv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (amberIT)
 http://118.179.92.39/hls/ekattar/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (Inspire BD)
+http://103.213.238.70:80/EkattorTV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (FuntimeBD)
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 
