@@ -5,11 +5,11 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (DFNBD)
 http://45.127.244.7:8080/hls/channel3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDCast)
-https://cdn-sgp.oc.bd-cast.com/bee-global/gazitv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (JadooIPTV)
+http://jadooiptv.ddns.net:25461/live/9477597/3466965/525.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (AlifLailaTV)
-http://103.106.243.163:8181//1/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (AmberIT)
+http://118.179.92.39/hls/BTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD (EBOX2/JagoBD)
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
@@ -113,8 +113,8 @@ https://ott.bingebd.com/live/ngrp:duronto_tv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (amberIT)
 http://118.179.92.39/hls/ekattar/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (Inspire BD)
-http://103.213.238.70:80/EkattorTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (Jaddoiptv)
+http://jadooiptv.ddns.net:25461/live/9477597/3466965/547.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (FuntimeBD)
 http://103.109.56.116/live/skyfeed1003/index.m3u8
@@ -161,8 +161,8 @@ http://103.213.238.70:80/NagorikTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV(SK Traders)
 http://103.81.104.118/hls/stream24.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (DFNBD)
-http://45.127.244.25:8080/23/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (jadooIPTV)
+http://jadooiptv.ddns.net:25461/live/9477597/3466965/540.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (amberIT)
 http://118.179.92.39/hls/ntv/index.m3u8
@@ -242,8 +242,8 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (DFNBD)
 http://45.127.244.25:8080/48/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (Ihub)
-https://cdn.ihub.live/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (Jadooiptv)
+http://jadooiptv.ddns.net:25461/live/9477597/3466965/566.m3u8
 
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla (EBOX2)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
