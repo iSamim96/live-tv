@@ -77,8 +77,8 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (DFNBD)
 http://45.127.244.25:8080/27/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://live--tv--channels-org.cdn.ampproject.org/ii/w820/s/live-tv-channels.org/pt-data/uploads/logo/bd-channel-24-bd-5649.jpg" group-title="Bangla",Channel 24 (EBOX2)
-http://tv2.ebox.live:8080/live/ch24s1.m3u8
+#EXTINF:-1 tvg-logo="https://live--tv--channels-org.cdn.ampproject.org/ii/w820/s/live-tv-channels.org/pt-data/uploads/logo/bd-channel-24-bd-5649.jpg" group-title="Bangla",Channel 24 (ProbashiBangla)
+https://probashibangla-tv.telelivebd.com/live/channel24/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://live--tv--channels-org.cdn.ampproject.org/ii/w820/s/live-tv-channels.org/pt-data/uploads/logo/bd-channel-24-bd-5649.jpg" group-title="Bangla",Channel 24 (DFNBD)
 http://45.127.244.25:8080/26/index.m3u8
@@ -101,8 +101,8 @@ http://43.230.123.21:8080/live/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (DFNBD)
 http://45.127.244.25:8080/19/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (DFNBD)
-http://45.127.244.25:8080/30/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (BDCableTV)
+http://jupiter.bdcabletv.com/DeshTV-IRD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (JadooIPTV)
 http://jadooiptv.ddns.net:25461/live/9477597/3466965/537.m3u8
@@ -155,8 +155,11 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",MOHONA TV (JagoBD)
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV(SK Traders)
-http://103.81.104.118/hls/stream24.m3u8
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (ProbashiBangla)
+https://probashibangla-tv.telelivebd.com/live/nagorik/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDCableTV)
+http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (jadooIPTV)
 http://jadooiptv.ddns.net:25461/live/9477597/3466965/540.m3u8
@@ -425,6 +428,9 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (EBOX2)
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (BDCableTV)
+http://jupiter.bdcabletv.com/willow_hd-sim/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" group-title="Sports",FOX Sports News HD (akamai)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
@@ -521,6 +527,9 @@ http://45.127.244.7:8080/hls/channel15.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network (BDCableTV)
+http://jupiter.bdcabletv.com/cn-sim/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Cartoon",Disney Junior 
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 
@@ -533,11 +542,11 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tEL0CyS.jpg" group-title="Cartoon", Tom & Jerry
-https://m3u-editor.com/serve/f3b20c50-c5f6-11eb-8e77-bb8f17ec6cf2/310049069
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo (BDCableTV)
+http://jupiter.bdcabletv.com/pogo-pak/video.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4omR3Eg.jpg" group-title="Cartoon", Mr. Bean Show
-https://m3u-editor.com/serve/f3b20c50-c5f6-11eb-8e77-bb8f17ec6cf2/310049070
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
+http://flussonicusa.bdcabletv.com/NIKPHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema HD (amberIT)
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
