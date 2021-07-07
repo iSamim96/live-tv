@@ -113,8 +113,8 @@ https://ott.bingebd.com/live/ngrp:duronto_tv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (amberIT)
 http://118.179.92.39/hls/ekattar/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (Jaddoiptv)
-http://jadooiptv.ddns.net:25461/live/9477597/3466965/547.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (probashibangla)
+https://probashibangla-tv.telelivebd.com/live/ekattor/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (FuntimeBD)
 http://103.109.56.116/live/skyfeed1003/index.m3u8
