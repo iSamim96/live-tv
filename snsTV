@@ -411,7 +411,7 @@ http://10.100.100.134/live/skyfeed1003/index.m3u8
 http://103.109.56.116/live/skyfeed1025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD
-http://103.157.237.18:8000/play/617
+http://103.157.237.18:8000/play/618
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN HD (EBOX2)
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
