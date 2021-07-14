@@ -122,6 +122,9 @@ https://cdn.cinemabaaz.live/DESH-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto TV 
 http://103.157.237.18:8000/play/132
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto TV (AliflailaBD)
+http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (amberIT)
 http://118.179.92.39/hls/ekattar/index.m3u8
 
@@ -263,8 +266,8 @@ http://45.127.244.25:8080/42/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema (akamai)
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (DFNBD)
-http://45.127.244.25:8080/48/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (AliflailaBD)
+http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath  (NaturalBD)
 https://cdn.naturalbd.com/SonyAath/tracks-v1a1/mono.m3u8
@@ -377,6 +380,9 @@ http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (EBOX2)
 http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (FuntimeBD)
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 HD (StarFlix)
 http://172.27.27.3:8081/local/sony-ten-2-hd/chunks.m3u8
 
@@ -391,6 +397,9 @@ http://10.100.100.134/live/skyfeed1002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (EBOX2)
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (EBOX2)
+http://103.109.56.116/live/skyfeed1018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (FuntimeBD)
 http://103.109.56.116/live/skyfeed1019/index.m3u8
@@ -578,14 +587,14 @@ http://45.127.244.7:8080/hls/channel15.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network (BDCableTV)
-http://jupiter.bdcabletv.com/cn-sim/video.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network
+http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7GkOGS.png" group-title="Cartoon",Disney Junior 
-http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/b/675-6759743_disney-black-logo-png.png" group-title="Cartoon",Disney Channel
+http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Cartoon",Discovery Kids (multitvsolution)
-https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
+https://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" group-title="Cartoon",Aniplus
 http://45.126.83.51/dr9445/h/h02/index.m3u8
