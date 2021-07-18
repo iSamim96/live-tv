@@ -89,7 +89,7 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (DFNBD)
 http://45.127.244.25:8080/27/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://live--tv--channels-org.cdn.ampproject.org/ii/w820/s/live-tv-channels.org/pt-data/uploads/logo/bd-channel-24-bd-5649.jpg" group-title="Bangla",Channel 24 (NaturalBD)
+#EXTINF:-1 tvg-logo="https://live--tv--channels-org.cdn.ampproject.org/ii/w820/s/live-tv-channels.org/pt-data/uploads/logo/bd-channel-24-bd-5649.jpg" group-title="Bangla",Channel 24 (CinemaBaaz)
 https://cdn.naturalbd.com/j-Channel24/tracks-v1a1/mono.m3u8
 
 EXTINF:-1 tvg-logo="https://live--tv--channels-org.cdn.ampproject.org/ii/w820/s/live-tv-channels.org/pt-data/uploads/logo/bd-channel-24-bd-5649.jpg" group-title="Bangla",Channel 24 (DFNBD)
