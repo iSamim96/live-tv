@@ -623,9 +623,6 @@ https://is.gd/dHmVKS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama Tv Hindi
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick (pmcon)
-http://tv.pmcon.net/hls/stream23.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick (FunTimeBD)
 http://103.109.56.116/live/skyfeed1014/index.m3u8
 
