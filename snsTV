@@ -128,8 +128,8 @@ http://103.157.237.18:8000/play/132
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (amberIT)
 http://118.179.92.39/hls/ekattar/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (Cinemabaaz)
-https://cdn.cinemabaaz.live/EkattorTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (BDcableTV)
+http://jupiter.bdcabletv.com/Ekattor-HD-IRD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (FuntimeBD)
 http://103.109.56.116/live/skyfeed1003/index.m3u8
@@ -173,14 +173,14 @@ http://45.127.244.25:8080/20/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",MOHONA TV (JagoBD)
 http://103.43.148.202:1931/iptv/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (pmCon)
-http://tv.pmcon.net/hls/stream24.m3u8
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDcableTV)
+http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (CinemaBaaz)
 https://cdn.cinemabaaz.live/NagorikTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (CinemaBaaz)
-https://cdn.cinemabaaz.live/NTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDcableTV)
+http://jupiter.bdcabletv.com/NTV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (amberIT)
 http://118.179.92.39/hls/ntv/index.m3u8
@@ -223,9 +223,6 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (DFNBD)
 http://45.127.244.7:8080/hls/channel2.m3u8
-
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (CinemaBaaz)
-https://cdn.cinemabaaz.live/j-TSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (Link 71)
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
@@ -365,9 +362,6 @@ https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"  group-title="Documentary",TravelXP
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",Ten Cricket (pmCon)
-http://tv.pmcon.net/hls/stream34.m3u8
-
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="Sports",Ten Sports (EBOX2)
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
 
@@ -419,8 +413,8 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (FuntimeBD)
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 HD
-http://103.157.237.18:8000/play/616
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (BDcableTV)
+http://jupiter.bdcabletv.com/ten_3-sim/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD  (StarFlix)
 http://172.27.27.3:8081/local/sony-six-hd/chunks.m3u8
