@@ -260,8 +260,8 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema (akamai)
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath  (CinemaBaaz)
-https://cdn.cinemabaaz.live/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath 
+http://bd.digiiptv.net:25461/moznu43/PA2443/566
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (BDcabletv)
 http://jupiter.bdcabletv.com/sony_8-sp/video.m3u8
@@ -615,7 +615,7 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 https://is.gd/dHmVKS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama Tv Hindi
-http://103.153.39.34:8000/play/a04l/index.m3u8
+http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick (FunTimeBD)
 http://103.109.56.116/live/skyfeed1014/index.m3u8
