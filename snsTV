@@ -629,6 +629,9 @@ http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick (FunTimeBD)
 http://103.109.56.116/live/skyfeed1014/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick (EBOX2)
+http://tv2.ebox.live:8080/live/nick.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema HD (amberIT)
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 
