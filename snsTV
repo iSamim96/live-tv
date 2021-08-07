@@ -11,8 +11,8 @@ http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDCableTV)
 http://jupiter.bdcabletv.com/GTVHD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (CinemaBaaz)
-https://cdn.cinemabaaz.live/j-GTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (Bdtv.xyz)
+https://tv.bdtv.xyz:2096/live/gazitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (Link71)
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
@@ -131,8 +131,8 @@ http://103.157.237.18:8000/play/132
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (amberIT)
 http://118.179.92.39/hls/ekattar/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (CinemaBaaz)
-https://cdn.cinemabaaz.live/EkattorTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (bdtv.xyz)
+https://tv.bdtv.xyz:2096/live/ekattor/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (BDcableTV)
 http://jupiter.bdcabletv.com/Ekattor-HD-IRD/video.m3u8
@@ -182,8 +182,8 @@ http://103.43.148.202:1931/iptv/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDcableTV)
 http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (CinemaBaaz)
-https://cdn.cinemabaaz.live/NagorikTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (bdtv.xyz)
+https://tv.bdtv.xyz:2096/live/nagorik/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDcableTV)
 http://jupiter.bdcabletv.com/NTV/video.m3u8
@@ -230,11 +230,11 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (DFNBD)
 http://45.127.244.7:8080/hls/channel2.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports HD (CinemaBaaz)
-https://cdn.cinemabaaz.live/j-TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports HD 
+http://209.126.120.91/hls/tsports.m3u8
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (CinemaBaaz)
-https://cdn.cinemabaaz.live/TSportsSD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports 
+https://tv.bdtv.xyz:2096/live/tsports/playlist.m3u8?token=samitvhd
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (Link 71)
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
