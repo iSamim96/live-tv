@@ -8,7 +8,8 @@ http://172.27.27.3:8081/local/gazi-tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (DFNBD)
 http://45.127.244.7:8080/hls/channel3.m3u8
 
-http://103.81.104.118/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (YouTube)
+https://tinyurl.com/GTVYT8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD (Video Elephant)
 http://137.59.155.77:8088/hls/01gazitv.m3u8
@@ -186,6 +187,9 @@ http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (bdtv.xyz)
 https://tv.bdtv.xyz:2096/live/nagorik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (YouTube)
+https://tinyurl.com/y76h8kca
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDcableTV)
 http://jupiter.bdcabletv.com/NTV/video.m3u8
