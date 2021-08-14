@@ -23,14 +23,14 @@ https://tv.bdtv.xyz:2096/live/gazitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (Link71)
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD (BDtv.xyz)
-https://tv.bdtv.xyz:2096/live/maasranga/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD (SK Traders)
+http://103.81.104.118/hls/stream20.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD (JagoBD)
 http://103.43.148.202:1931/iptv/mass.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDTV.xyz)
-https://tv.bdtv.xyz:2096/live/atnbangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (EBOX2)
+http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (JagoBD)
 http://103.43.148.202:1931/iptv/atnbd-8-org.stream/chunks.m3u8
@@ -97,9 +97,6 @@ http://103.43.148.202:1931/iptv/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I (EBOX2)
 http://tv2.ebox.live:8080/live/chi.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",Channel 24 (BDtv.xyz)
-https://tv.bdtv.xyz:2096/live/channel24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",Channel 24 (JagoBD)
 http://103.43.148.202:1931/iptv/channel24-sg-e8e.stream/chunks.m3u8
@@ -221,8 +218,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV (JagoBD)
 http://103.43.148.202:1931/iptv/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV (BDTV.xyz)
-https://tv.bdtv.xyz:2096/live/somoy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV (SK Traders)
+http://103.81.104.118/hls/stream21.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (Starflix)
 http://172.27.27.3:8081/local/maasranga-tv/chunks.m3u8
@@ -366,7 +363,7 @@ https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.overv.eu/wp-content/uploads/2017/11/bbc.png"  group-title="Documentary",BBC Earth 
-http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/bbcearthhd.jpg"  group-title="Documentary",Sony BBC Earth Hindi ( DataCamp )
 http://84.17.41.7/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
