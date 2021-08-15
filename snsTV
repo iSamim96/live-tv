@@ -462,7 +462,7 @@ http://84.17.41.7/sonysixhd/index.m3u8
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-TZNQbBgu508/UjtEagBbaMI/AAAAAAAAAH0/8YrDDQ6iA6k/s320/ESPN3Vivo.png" group-title="Sports",ESPN Vivo
-https://google-br.cdn.booyah.live/hls/1000012/81258086.m3u8
+http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD  (StarFlix)
 http://172.27.27.3:8081/local/star-sports-1-hd/chunks.m3u8
@@ -578,10 +578,10 @@ http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="Sports" ,Bein Sports English HD3
 http://stream.tvtap.live:8081/live/tr-bein3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/01/Screenshot-13.png" group-title="Sports" , La Liga (akamai)
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/98d0ad57b8d038bc77824eb064e9dd9a.jpg" group-title="Sports" , La Liga (akamai)
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/vpc43zxm" group-title="Sports" , English Premier League (livedomovie)
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/11/Premier-League-Logo-shield.png" group-title="Sports" , English Premier League (livedomovie)
 https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" group-title="Sports" ,True sports HD 3 
@@ -743,13 +743,13 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg"  group-title="Hindi Music",Zing (amberIT)
 http://118.179.92.39/hls/Zing/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/DKVLQ7m.png” group-title="Hindi Music",MTV (akamai)
+#EXTINF:-1 tvg-logo=”https://r7.pngwing.com/path/891/781/319/mtv-logo-tv-viacom-media-networks-axe-logo-2e5ae997d8574b402932f30087c95b77.png” group-title="Hindi Music",MTV (akamai)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/DKVLQ7m.png” group-title="Hindi Music",MTV (CloudFront)
+#EXTINF:-1 tvg-logo=”https://r7.pngwing.com/path/891/781/319/mtv-logo-tv-viacom-media-networks-axe-logo-2e5ae997d8574b402932f30087c95b77.png” group-title="Hindi Music",MTV (CloudFront)
 https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/0jpYBad.png” group-title="Hindi Music",MTV Beats (amberIT)
+#EXTINF:-1 tvg-logo=”https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07191941/MTVBeats.png” group-title="Hindi Music",MTV Beats (amberIT)
 http://118.179.92.39/hls/MTVBEATES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="Hindi Music",Kadak Hits (akamai)
