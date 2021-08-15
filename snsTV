@@ -579,7 +579,7 @@ http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 http://stream.tvtap.live:8081/live/tr-bein3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/01/Screenshot-13.png" group-title="Sports" , La Liga (akamai)
-https://akamai2-br.cdn.booyah.live/hls/1000081/81257662.m3u8
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/vpc43zxm" group-title="Sports" , English Premier League (livedomovie)
 https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
