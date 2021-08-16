@@ -35,8 +35,8 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/526
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD (JagoBD)
 http://103.43.148.202:1931/iptv/mass.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV (Jadoo)
-http://bd.digiiptv.net:25461/moznu43/PA2443/527
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV 
+http://173.199.120.51/hls/asiantv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV (BDCable)
 http://jupiter.bdcabletv.com/AsianTVHD-IRD/video.m3u8
@@ -140,8 +140,8 @@ http://43.230.123.21:8080/live/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (BDTV.xyz)
 https://tv.bdtv.xyz:2096/live/deeptotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (JagoBD)
-https://iptvbd.jagobd.com:441/boishakhi/deshtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV
+http://173.199.120.51/hls/deshtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (BDcableTV)
 http://jupiter.bdcabletv.com/DeshTV-IRD/video.m3u8
@@ -149,8 +149,8 @@ http://jupiter.bdcabletv.com/DeshTV-IRD/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto TV (SK Traders)
 http://103.81.104.118/hls/duronto.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (amberIT)
-http://118.179.92.39/hls/ekattar/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV
+http://173.199.120.51/hls/ekatoortv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (bdtv.xyz)
 https://tv.bdtv.xyz:2096/live/ekattor/playlist.m3u8
@@ -213,7 +213,7 @@ http://103.81.104.118/hls/stream24.m3u8
 http://jupiter.bdcabletv.com/NTV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (Jadoo)
-http://bd.digiiptv.net:25461/moznu43/PA2443/540
+http://173.199.120.51/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (amberIT)
 http://118.179.92.39/hls/ntv/index.m3u8
@@ -232,6 +232,9 @@ http://tv2.ebox.live:8080/live/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",RTV BD (JagoBD)
 http://103.43.148.202:1931/iptv/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",RTV BD 
+http://173.199.120.51/hls/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad Bangladesh (Amarnet)
 http://103.106.2.149:13456/sangsad.m3u8
