@@ -309,7 +309,7 @@ http://173.199.120.51/hls/sony8.m3u8
 http://bd.digiiptv.net:25461/moznu43/PA2443/566
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (BDcabletv)
-http://jupiter.bdcabletv.com/sony_8-sp/video.m3u8
+http://jupiter.bdcabletv.com/SonyAath/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="Bangla",Colors Bangla (EBOX2)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
