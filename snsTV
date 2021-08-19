@@ -233,7 +233,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",RTV BD  (radiant)
 http://173.199.120.51/hls/rtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad Bangladesh (Amarnet)
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/shangsadbangladesh.jpg" group-title="Bangla",Sangsad Bangladesh (Amarnet)
 http://103.106.2.149:13456/sangsad.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangla",SA TV (JagoBD)
@@ -704,6 +704,9 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ndtvimg.com/i/2014-12/ndtv24x7_640x480_71419357330.jpg" group-title="News", NDTV 24x7 (akamai)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Cartoon", Boomerang
+http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon", Cartoon Network 
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
@@ -806,16 +809,19 @@ http://118.179.92.39/hls/9x/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/t4j8hjhh"  group-title="Hindi Music",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg"  group-title="Hindi Music",Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg"  group-title="Hindi Music",Zing (amberIT)
 http://118.179.92.39/hls/Zing/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://r7.pngwing.com/path/891/781/319/mtv-logo-tv-viacom-media-networks-axe-logo-2e5ae997d8574b402932f30087c95b77.png” group-title="Hindi Music",MTV (akamai)
+#EXTINF:-1 tvg-logo=”http://amrbd.com/assets/images/mtv.jpg” group-title="Hindi Music",MTV (akamai)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-logo=”https://r7.pngwing.com/path/891/781/319/mtv-logo-tv-viacom-media-networks-axe-logo-2e5ae997d8574b402932f30087c95b77.png” group-title="Hindi Music",MTV (CloudFront)
+#EXTINF:-1 tvg-logo=”http://amrbd.com/assets/images/mtv.jpg” group-title="Hindi Music",MTV (CloudFront)
 https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
 
-#EXTINF:-1 tvg-logo=”https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07191941/MTVBeats.png” group-title="Hindi Music",MTV Beats (amberIT)
+#EXTINF:-1 tvg-logo=”http://amrbd.com/assets/images/mtvbeats.jpg” group-title="Hindi Music",MTV Beats (amberIT)
 http://118.179.92.39/hls/MTVBEATES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="Hindi Music",Kadak Hits (akamai)
@@ -848,8 +854,8 @@ http://172.27.27.3:8081/local/Zee_Chinaman/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi Movies",Sony MAX  (DFNBD)
 http://45.127.244.7:8080/hls/channel14.m3u8
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi Movies",Sony MAX HD  (R-EX)
-http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi Movies",Sony MAX HD  
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movies",UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
