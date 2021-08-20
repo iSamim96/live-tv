@@ -596,6 +596,27 @@ http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/sites/4/2017/07/Sky-Sports-MAIN-EVENT-pic-770x431.jpg" group-title="Sports" ,Sky Sports Mainevents
 http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="Sports", Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports", Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports", Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vowBrPg.png" group-title="Sports", Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8CJxDY.png" group-title="Sports", Super Sports 6
+http://93.157.62.180/Supersport6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gyHXhe.png" group-title="Sports", Super Sports 7
+http://93.157.62.180/Supersport7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" group-title="Sports",Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
@@ -604,6 +625,21 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" group-title="Sports",Ad Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjpUqlC.png" group-title="Sports", Arena Sports 1
+http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjpUqlC.png" group-title="Sports", Arena Sports 2
+http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjpUqlC.png" group-title="Sports", Arena Sports 3
+http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjpUqlC.png" group-title="Sports", Arena Sports 4
+http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjpUqlC.png" group-title="Sports", Arena Sports 5
+http://93.157.62.180/ArenaSport5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tvm-station-dazn-2-es-2511.png" group-title="Sports",Dazn 2
 http://stream.tvtap.live:8081/live/it-dazn2.stream/chunks.m3u8
