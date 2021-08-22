@@ -272,6 +272,9 @@ https://tv.bdtv.xyz:2096/live/tsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (Link 71)
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Bangla", ABP Ananda (akamai)
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (StarFlix)
 http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8
 
