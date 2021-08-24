@@ -146,8 +146,8 @@ http://173.199.120.51/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (JagoBD)
 http://iptvbd.jagobd.com:1931/boishakhi/deshtv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla",Duronto TV (SK Traders)
-http://103.81.104.118/hls/duronto.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (AL)
+http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV  (CinemaBaaz)
 https://cdn.nowhdtime.com.bd/EkattorTV/index.m3u8
@@ -316,6 +316,9 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath  (CinemaBaaz)
 https://cdn.nowhdtime.com.bd/SonyAath/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath  (AL)
+http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath  (Radiant)
 http://173.199.120.51/hls/sony8.m3u8
@@ -500,8 +503,8 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (FuntimeBD)
 http://103.109.56.116/live/skyfeed1018/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (City Online)
-http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (AL)
+http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (Radiant)
 http://173.199.120.51/hls/ten3.m3u8
@@ -569,8 +572,8 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD  (EBOX2)
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD
-http://tvflix02.ddns.net/SPORTS__STAR_SPORTS_SELECT_1_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD (AL)
+http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2  (EBOX2)
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
@@ -578,8 +581,8 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (BDCableTV)
 http://jupiter.bdcabletv.com/select_2/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD
-http://tvflix02.ddns.net/SPORTS__STAR_SPORTS_SELECT_2_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (AL)
+http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD    (FuntimeBD)
 http://103.109.56.116/live/skyfeed1024/index.m3u8
