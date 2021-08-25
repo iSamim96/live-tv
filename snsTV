@@ -377,13 +377,13 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet (FuntimeBD)
 http://103.109.56.116/live/skyfeed1016/index.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (fptplay)
+EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (fptplay)
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (multitvsolution)
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
-#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (fptplay)
+EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (fptplay)
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD  (EBOX2)
@@ -401,9 +401,6 @@ https://idvd.multitvsolution.com/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Documentary",Discovery Science English (multitvsolution)
 https://idvd.multitvsolution.com/idvo/discoverscienceeng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ais.th/play/images/channel/ch_logo_asia.jpg" group-title="Documentary",Discovery Asia (fptplay)
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/investigation-discovery.png" group-title="Documentary",Discovery ID (multitvsolution)
 http://idvd.multitvsolution.com/idvo/investigationdiscovery_540p/index.m3u8
 
@@ -417,12 +414,12 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic Hindi  HD
-http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD (fdtplay)
+EXTINF:1 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary", National Geographic HD (fdtplay)
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild Hindi
+EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild Hindi
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild
@@ -431,20 +428,17 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel (tvtap)
 http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC Hindi (fptplay)
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (multitvsolution)
+https://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC Hindi (multitvsolution)
 https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.overv.eu/wp-content/uploads/2017/11/bbc.png"  group-title="Documentary",BBC Earth (fptplay)
+EXTINF:-1 tvg-logo="https://www.overv.eu/wp-content/uploads/2017/11/bbc.png"  group-title="Documentary",BBC Earth (fptplay)
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.overv.eu/wp-content/uploads/2017/11/bbc.png"  group-title="Documentary",BBC Earth 
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/bbcearthhd.jpg"  group-title="Documentary",Sony BBC Earth Hindi ( DataCamp )
-http://84.17.41.7/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
+https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"  group-title="Documentary",TravelXP Hindi 
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
@@ -756,7 +750,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/dwnews.stream/chunks.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1.png" ,CNN NEWS
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-08-at-2.28.31-PM.png" group-title="News",NewsMax TV(akamai)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
