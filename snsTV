@@ -875,10 +875,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg"  group-title="Hindi Music",Zing (amberIT)
 http://118.179.92.39/hls/Zing/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://amrbd.com/assets/images/mtv.jpg” group-title="Hindi Music",MTV (akamai)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Hindi Music",MTV (akamai)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-logo=”http://amrbd.com/assets/images/mtv.jpg” group-title="Hindi Music",MTV (CloudFront)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Hindi Music",MTV (CloudFront)
 https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
 
 #EXTINF:-1 tvg-logo=”http://amrbd.com/assets/images/mtvbeats.jpg” group-title="Hindi Music",MTV Beats (amberIT)
@@ -898,6 +898,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Hindi Music", Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="Hindi Music", Masti TV
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2f20160517221047780336_hungama-digital.gif" group-title="Hindi Music", Hungama Digital (Hungama)
 https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
