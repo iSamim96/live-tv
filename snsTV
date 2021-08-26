@@ -155,6 +155,9 @@ http://iptvbd.jagobd.com:1931/boishakhi/deshtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (AL)
 http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV  (AL)
+http://tv.aliflailabd.com:8989/ekattor/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV  (CinemaBaaz)
 https://cdn.nowhdtime.com.bd/EkattorTV/index.m3u8
 
