@@ -383,8 +383,8 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (multitvsolution)
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
-EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery (fptplay)
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD Bangla
+http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD  (EBOX2)
 http://tv2.ebox.live:8080/live/discovery.m3u8
@@ -424,6 +424,9 @@ http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel (tvtap)
 http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
@@ -850,6 +853,9 @@ http://tv2.ebox.live:8080/live/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg"  group-title="English Movies",HBO 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Isk6Gom.png"  group-title="English Movies",Comedy Central
+http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi",Colors HD (StarFlix)
 http://172.27.27.3:8081/local/Colors/chunks.m3u8
