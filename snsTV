@@ -536,12 +536,6 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (AL)
 http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (Radiant)
-http://173.199.120.51/hls/ten3.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (BDcableTV)
-http://jupiter.bdcabletv.com/ten_3-sim/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD  (StarFlix)
 http://172.27.27.3:8081/local/sony-six-hd/chunks.m3u8
 
@@ -561,7 +555,7 @@ http://103.153.175.254:8080/hls/stream10.m3u8
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4k3LkUF.png" group-title="Sports",ESPN 2
-http://stream.tv tap.live:8081/live/espn2hd.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD  (StarFlix)
 http://172.27.27.3:8081/local/star-sports-1-hd/chunks.m3u8
