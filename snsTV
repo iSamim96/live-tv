@@ -269,17 +269,17 @@ http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/chunks.m
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="Bangla",Shomoy TV (Radiant)
 http://173.199.120.51/hls/somoy.m3u8
 
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (Starflix)
-http://172.27.27.3:8081/local/maasranga-tv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (EBOX2)
-http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangla",T Sports HD (City Online)
+http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (Video ELephant)
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangla",T Sports HD (City Online)
-http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (EBOX2)
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (Starflix)
+http://172.27.27.3:8081/local/maasranga-tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports (NL)
 http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
@@ -353,13 +353,10 @@ http://173.199.120.51/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath  (Jadoo)
 http://bd.digiiptv.net:25461/moznu43/PA2443/566
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (BDcabletv)
-http://jupiter.bdcabletv.com/SonyAath/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla (EBOX2)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla )(NL)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla (NL)
 http://103.159.4.38:8080/IN-BANGLA-5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla  (Radiant)
