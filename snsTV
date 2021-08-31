@@ -155,20 +155,17 @@ http://iptvbd.jagobd.com:1931/boishakhi/deshtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (AL)
 http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV  (AL)
-http://tv.aliflailabd.com:8989/ekattor/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (NL)
 http://103.159.4.38:8080/BD-BANGLA-7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV  (CinemaBaaz)
 https://cdn.nowhdtime.com.bd/EkattorTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (Radiant)
-http://173.199.120.51/hls/ekatoortv.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (bdtv.xyz)
 https://tv.bdtv.xyz:2096/live/ekattor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (Radiant)
+http://173.199.120.51/hls/ekatoortv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (BDcableTV)
 http://jupiter.bdcabletv.com/Ekattor-HD-IRD/video.m3u8
@@ -341,9 +338,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath  (CinemaBaaz)
 https://cdn.nowhdtime.com.bd/SonyAath/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath  (AL)
-http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (NL)
 http://103.159.4.38:8080/IN-BANGLA-1/index.m3u8
 
@@ -395,11 +389,8 @@ http://tv2.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet 
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet (FuntimeBD)
-https://idvd.multitvsolution.com/idvo/aphdhd_540p/index.m3u8
-
-EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (fptplay)
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet HD (NL)
+http://103.159.4.38:8080/ENTEMENT-2/index.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (multitvsolution)
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
