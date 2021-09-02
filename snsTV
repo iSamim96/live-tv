@@ -5,10 +5,10 @@
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 1 (BDIX2)
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", T Sports HD (YT)
+EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", T Sports HD (YT - Only available during game)
 https://tinyurl.com/2xhvfe45
 
-EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Gazi TV HD (YT)
+EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Gazi TV HD  (YT - Only available during game)
 https://tinyurl.com/wa54eh4p
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/pDo9tFG.png" group-title="Live Sports", RabbitholeBD (YT)
@@ -22,6 +22,9 @@ http://172.27.27.3:8081/local/gazi-tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD ( BDIX7)
 http://137.59.155.77:8088/hls/01gazitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX11)
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV HD (Jadoo)
 http://bd.digiiptv.net:25461/moznu43/PA2443/525
@@ -499,7 +502,7 @@ http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (BDIX2)
 http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (BDIX11)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (BDIX11)
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 HD (BDIX3)
@@ -517,11 +520,14 @@ http://10.100.100.134/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (BDIX9)
 http://103.159.4.38:8080/SPORTS-9/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (BDIX11)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (BDIX11)
 http://103.109.56.116/live/skyfeed1018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (BDCable)
 http://tvflix03.ddns.net/Ten3HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (BDIX11)
+http://103.109.56.116/live/skyfeed1019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD  (BDIX3)
 http://172.27.27.3:8081/local/sony-six-hd/chunks.m3u8
@@ -534,6 +540,9 @@ http://45.127.244.7:8080/hls/channel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD   (BDIX4)
 http://10.100.100.134/live/skyfeed1003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six (BDIX11)
+http://103.109.56.116/live/skyfeed1025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD   (BDIX7)
 http://137.59.155.77:8088/hls/05sonysix.m3u8
@@ -577,13 +586,13 @@ http://172.27.27.3:8081/local/star-sports-select-2-hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 HD (BDIX2)
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 (City Online)
-http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 (BDIX11)
+http://103.109.56.116/live/skyfeed1021/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2  (Radiant)
 http://173.199.120.51/hls/chss2.m3u8
 
-EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3  (BDIX11)
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3  (BDIX11)
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD  (BDIX2)
@@ -591,6 +600,9 @@ http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 (BDIX9)
 http://103.159.4.38:8080/SPORTS-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 (BDIX11)
+http://103.109.56.116/live/skyfeed1020/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD 
 http://luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/503.m3u8?token=
@@ -601,10 +613,7 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (BDCableTV)
 http://jupiter.bdcabletv.com/select_2/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (AL)
-http://eurotv.vip/pretttiiivddcff/Frffgfrffc300/43011
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD    (BDIX11)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD    (BDIX11)
 http://103.109.56.116/live/skyfeed1024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports" ,Sky Sports Cricket
