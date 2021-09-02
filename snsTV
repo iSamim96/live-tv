@@ -284,8 +284,8 @@ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha (BDIX1)
 http://45.127.244.7:8080/hls/channel12.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha (Radiant)
-http://173.199.120.51/hls/chsj.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb4d3542cbf30d724fa6561bd0947080961b6fa69e3a83eb23f8ffafd052d1b3c4a5f057b38f58f813dfef64dcc1badbab96cb990fae3873c3950a164a6865b945abf540163988cb3c61a2c8a0a51a158b7a1b445f6313e9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX3)
 http://172.27.27.3:8081/local/Zee_Bangla/chunks.m3u8
@@ -296,8 +296,8 @@ http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla (BDIX1)
 http://45.127.244.7:8080/hls/channel10.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD  (radiant)
-http://173.199.120.51/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD  (akamai)
+https://ayushiz5tv.herokuapp.com/?c=0-9-zeebangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX2)
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
@@ -316,9 +316,6 @@ https://cdn.nowhdtime.com.bd/SonyAath/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (BDIX9)
 http://103.159.4.38:8080/IN-BANGLA-1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath  (Radiant)
-http://173.199.120.51/hls/sony8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla (BDIX2)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
