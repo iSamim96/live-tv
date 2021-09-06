@@ -534,16 +534,19 @@ http://103.159.4.38:8080/SPORTS-2/index.m3u8
 http://103.109.56.116/live/skyfeed1020/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD 
-http://luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/503.m3u8?token=
+http://eurotv.vip/pretttiiivddcff/Frffgfrffc300/43010
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2  (BDIX2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (BDIX2)
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD   (BDIX11)
+http://103.109.56.116/live/skyfeed1024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (BDCableTV)
 http://jupiter.bdcabletv.com/select_2/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD    (BDIX11)
-http://103.109.56.116/live/skyfeed1024/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD   
+http://eurotv.vip/pretttiiivddcff/Frffgfrffc300/43011
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports" ,Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
