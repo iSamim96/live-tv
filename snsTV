@@ -147,7 +147,7 @@ http://103.159.4.38:8080/BD-BANGLA-7/index.m3u8
 https://cdn.nowhdtime.com.bd/EkattorTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (radiant)
-http://tvflixbdvip.ddns.net/hls/ekatoortv.m3u8
+http://173.199.120.51/hls/ekatoortv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (BDcableTV)
 http://jupiter.bdcabletv.com/Ekattor-HD-IRD/video.m3u8
