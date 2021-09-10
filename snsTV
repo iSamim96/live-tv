@@ -29,8 +29,8 @@ http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD (BDIX0)
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV (gCDN)
+http://indo51.gcdn.co/BANGLA-BD-ASIANTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV (radiant)
 http://173.199.120.51/hls/asiantv.m3u8
@@ -131,8 +131,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (radiant)
 http://173.199.120.51/hls/deshtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (gCDN)
+http://indo51.gcdn.co/BANGLA-BD-DESHTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (BDIX0)
 http://iptvbd.jagobd.com:1931/boishakhi/deshtv.stream/chunks.m3u8
@@ -473,8 +473,8 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (BDIX7)
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (radiant)
-http://173.199.120.51/hls/ten3.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (BDIX8)
+https://cdn.nowhdtime.com.bd/SonyTen3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (BDIX11)
 http://103.109.56.116/live/skyfeed1019/index.m3u8
