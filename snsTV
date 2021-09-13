@@ -474,6 +474,9 @@ https://cdn.nowhdtime.com.bd/SonyTen3/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3 (BDIX11)
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/sony-ten-3-logopedia-fandom-sony-ten-png-340_200.png"  group-title="Sports",Sony Ten 3  (BDIX13)
+http://tv.c1live.com:8081/c1O7u0cF8lOzId/ten3/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD  (BDIX3)
 http://172.27.27.3:8081/local/sony-six-hd/chunks.m3u8
 
