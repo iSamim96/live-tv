@@ -416,7 +416,7 @@ https://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC Hindi (multitvsolution)
 https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://pasteboard.co/gc2HcaZUfStj.jpg"  group-title="Documentary",Sony BBC Earth (FPM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",Sony BBC Earth (FPM)
 https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"  group-title="Documentary",TravelXP
@@ -482,16 +482,16 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (BDIX7)
 http://137.59.155.77:8088/hls/04sonyten2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png"  group-title="Sports",Sony Ten 3 (BDIX8)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3 (BDIX8)
 https://cdn.nowhdtime.com.bd/SonyTen3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png"  group-title="Sports",Sony Ten 3 (BDIX11)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3 (BDIX11)
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png"  group-title="Sports",Sony Ten 3  (BDIX13)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3  (BDIX13)
 http://tv.c1live.com:8081/c1O7u0cF8lOzId/ten3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png"  group-title="Sports",Sony Ten 3  (FPM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3  (FPM)
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD  (BDIX3)
