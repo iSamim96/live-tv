@@ -150,7 +150,7 @@ http://tv.c1live.com:8081/c1O7u0cF8lOzId/ekattor/chunks.m3u8
 http://173.199.120.51/hls/ekatoortv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (BDcableTV)
-http://tv.c1live.com:8081/c1O7u0cF8lOzId/ekattor/chunks.m3u8
+http://jupiter.bdcabletv.com/Ekattor-HD-IRD/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDIX10)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
