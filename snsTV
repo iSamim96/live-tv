@@ -560,6 +560,9 @@ http://103.109.56.116/live/skyfeed1021/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 HD (gCDN)
 http://indo51.gcdn.co/STARSPORTSHD2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2 
+http://93.152.174.144:4000/play/ss2in/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports", Star Sports 2  (BDCable)
 http://148.72.155.84/ENC-4/video.m3u8
 
@@ -571,6 +574,9 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 HD (gCDN)
 http://indo51.gcdn.co/STARSPORTS3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3
+http://93.152.174.144:4000/play/ss3in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD  (BDIX2)
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
@@ -606,7 +612,7 @@ http://jupiter.bdcabletv.com/select_2/video.m3u8
 http://tv.c1live.com:8081/c1O7u0cF8lOzId/skycricket/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports" ,Sky Sports Cricket
-http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+https://tinyurl.com/3j3ep9bj
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports" ,Sky Sports Cricket
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
