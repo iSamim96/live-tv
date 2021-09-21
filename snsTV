@@ -3,7 +3,7 @@
 #SOURCEIT
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 1 
-https://tinyurl.com/fxc21
+http://dxla2.gcdn.co/WC30630/index.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/pDo9tFG.png" group-title="Live Sports", RabbitholeBD (YT)
 https://tinyurl.com/ykh5tztu
@@ -279,7 +279,7 @@ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 http://45.127.244.7:8080/hls/channel12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-https://tinyurl.com/mx29x2py
+https://tinyurl.com/27pt6med
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla (BDIX9)
 http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
@@ -294,7 +294,7 @@ http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 http://45.127.244.7:8080/hls/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD 
-https://tinyurl.com/zzw2r3cw
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6636/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX2)
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
@@ -682,6 +682,9 @@ http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="Sports" ,Bein Sports English HD3
 http://stream.tvtap.live:8081/live/tr-bein3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="Sports" ,Bein Sports English 3
+http://185.132.178.105:8090/BEIN_IPL_SD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://icdb.tv/images/98d0ad57b8d038bc77824eb064e9dd9a.jpg" group-title="Sports" , La Liga (akamai)
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
