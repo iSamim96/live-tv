@@ -657,7 +657,7 @@ http://stream.tvtap.live:8081/live/it-dazn2.stream/chunks.m3u8
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (gCDN)
-http://ux38.gcdn.co/UKS5/index.m3u8
+https://rapid1.gcdn.co/S17/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" group-title="Sports",FOX Sports News HD (akamai)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
