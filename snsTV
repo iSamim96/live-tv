@@ -3,7 +3,7 @@
 #SOURCEIT
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 1 
-http://45.58.148.154/star-123456/index.m3u8
+http://ux38.gcdn.co/UKS35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pDo9tFG.png" group-title="Live Sports", RabbitholeBD (YT)
 https://tinyurl.com/36ahs3y6
@@ -602,8 +602,8 @@ http://ux38.gcdn.co/UKS9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (BDCableTV)
 http://jupiter.bdcabletv.com/select_2/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-cricket-257.png" group-title="Sports" ,Astro Cricket
-http://nwbz1u.ecm.tm/806B6CF/89181e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083d9f4ca7021b397c900226a07b7114874b9197afacbbdec51deedd083ce4aa1ee96e8e61013ef1a1c1d13948427ba4cac1f64bddcef651053c797030f2f609faa61b4c1bcf14d36071992d1ddeaf74d2f6ed8481a96c5710ab9d2619d09b43ad&mac=00:1A:79:3A:6B:91&ip=202.134.14.145&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-cricket-257.png" group-title="Sports" ,Astro Cricket (gCDN)
+http://ux38.gcdn.co/UKS34/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports" ,Sky Sports Cricket
 https://tinyurl.com/3j3ep9bj
