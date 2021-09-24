@@ -3,7 +3,7 @@
 #SOURCEIT
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 1 
-http://ux38.gcdn.co/UKS5/tracks-v1a1/index.m3u8
+http://45.58.148.154/star-123456/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pDo9tFG.png" group-title="Live Sports", RabbitholeBD (YT)
 https://tinyurl.com/36ahs3y6
@@ -536,8 +536,8 @@ http://103.159.4.38:8080/SPORTS-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png"  group-title="Sports",Star Sports 1 HD (BDIX11)
 http://103.109.56.116/live/skyfeed1021/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD (BDIX7)
-http://137.59.155.77:8088/hls/07starsports1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD (BDcable)
+http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg"  group-title="Sports",Star Sports 1 HD (gCDN)
 http://ux38.gcdn.co/UKS2/index.m3u8
@@ -658,6 +658,9 @@ http://tv2.ebox.live:8080/live/willow-cric.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (gCDN)
 https://rapid1.gcdn.co/S17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/69/c4/9a/69c49af6efe92d0ba9d2048007edfc36.jpg"  group-title="Sports",Willow HD (BDcable)
+http://jupiter.bdcabletv.com/WillowHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" group-title="Sports",FOX Sports News HD (akamai)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
