@@ -539,8 +539,8 @@ http://ux38.gcdn.co/UKS7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2  (BDCable)
-http://148.72.155.84/ENC-4/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 HD
+http://140.238.229.213/sp2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3  (BDIX11)
 http://103.109.56.116/live/skyfeed1022/index.m3u8
