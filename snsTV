@@ -32,9 +32,6 @@ https://bd.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UMB7kiy.jpg" group-title="Bangla",Maasranga HD (BDIX2)
 http://tv2.ebox.live:8080/live/maasranga.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV (gCDN)
-http://indo51.gcdn.co/BANGLA-BD-ASIANTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV (radiant)
 http://173.199.120.51/hls/asiantv.m3u8
 
@@ -122,8 +119,8 @@ https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (radiant)
 http://173.199.120.51/hls/deshtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (gCDN)
-http://indo51.gcdn.co/BANGLA-BD-DESHTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (BDCable)
+http://jupiter.bdcabletv.com/DeshTV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV  (BDIX15)
 http://103.122.249.100:8989/duronto-tv/index.m3u8
@@ -199,6 +196,9 @@ http://173.199.120.51/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDcableTV)
 http://jupiter.bdcabletv.com/NTV/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDcableTV2)
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://jupiter.bdcabletv.com/NTV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX0)
 https://bd.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
@@ -442,9 +442,6 @@ http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (BDIX11)
 http://103.109.56.116/live/skyfeed1017/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (BDIX7)
-http://137.59.155.77:8088/hls/03sonyten1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 HD (BDIX3)
 http://172.27.27.3:8081/local/sony-ten-2-hd/chunks.m3u8
