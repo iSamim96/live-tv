@@ -3,7 +3,7 @@
 #SOURCEIT
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+http://fcd7.flycany.me:8880/live/kg14m3n0333/xcvz24656/60803.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/pDo9tFG.png" group-title="Live Sports", RabbitholeBD (YT)
 https://tinyurl.com/36ahs3y6
@@ -533,7 +533,8 @@ http://103.122.249.100:8989/star-sports-select2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (BDCableTV)
 http://jupiter.bdcabletv.com/select_2/video.m3u8
 
-EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-cricket-257.png" group-title="Sports" ,Astro Cricket (gCDN)
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-cricket-257.png" group-title="Sports" ,Astro Cricket 
+http://tvflixpo.hopto.org/live/60/60/51452.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports" ,Sky Sports Cricket
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
