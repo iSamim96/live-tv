@@ -3,7 +3,7 @@
 #SOURCEIT
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 
-http://fcd7.flycany.me:8880/live/kg14m3n0333/xcvz24656/60803.m3u8
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/pDo9tFG.png" group-title="Live Sports", RabbitholeBD (YT)
 https://tinyurl.com/36ahs3y6
@@ -114,7 +114,7 @@ http://43.230.123.21:8080/live/deeptotv.m3u8
 https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (radiant)
-http://173.199.120.51/hls/deshtv.m3u8
+http://tvflix00.hopto.org/hls/deshtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
@@ -167,11 +167,8 @@ http://45.127.244.25:8080/20/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",MOHONA TV   (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX13)
-http://tv.c1live.com:8081/c1O7u0cF8lOzId/nagorik/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (radiant)
-http://173.199.120.51/hls/nagorik.m3u8
+http://tvflix00.hopto.org/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV  (BDIX9)
 http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
@@ -500,8 +497,8 @@ http://173.199.120.51/hls/chsp2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 HD
 http://140.238.229.213/sp2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3  (BDIX11)
-http://103.109.56.116/live/skyfeed1022/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
+http://tvflixown.hopto.org:43756/1080/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 (BDIX1)
 http://45.127.244.7:8080/hls/channel7.m3u8
@@ -515,8 +512,8 @@ http://103.109.56.116/live/skyfeed1020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 (BDIX12)
 http://103.78.255.178:8080/starselect1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD (BDIX15)
-http://103.122.249.100:8989/star-sports-select1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg"  group-title="Sports",Star Sports Select 1 HD 
+http://bosstr.net/live/cat54/DpbYpXOhHn/27083.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (BDIX2)
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
@@ -527,11 +524,11 @@ http://172.27.27.3:8081/local/star-sports-select-2-hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD   (BDIX11)
 http://103.109.56.116/live/skyfeed1024/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD   (BDIX15)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD   
 http://103.122.249.100:8989/star-sports-select2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (BDCableTV)
-http://jupiter.bdcabletv.com/select_2/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 
+http://bosstr.net/live/cat54/DpbYpXOhHn/27084.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-cricket-257.png" group-title="Sports" ,Astro Cricket 
 http://tvflixpo.hopto.org/live/60/60/51452.m3u8
