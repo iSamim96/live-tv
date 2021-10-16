@@ -251,9 +251,6 @@ http://172.27.27.3:8081/local/Zee_Bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX2)
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla (jio)
-http://jo123.biz/jweb/m3u8.php?c=Zee_Bangla&q=600&e=junk.m3u8
-
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla (radiant)
 http://173.199.120.51/hls/zeebanglahd.m3u8
 
@@ -408,7 +405,7 @@ http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (radiant)
-http://173.199.120.51/hls/hls/chst1.m3u8
+http://173.199.120.51/hls/chst1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 HD (BDIX3)
 http://172.27.27.3:8081/local/sony-ten-2-hd/chunks.m3u8
