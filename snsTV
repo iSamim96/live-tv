@@ -3,7 +3,7 @@
 #SOURCEIT
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 
-http://103.40.226.94:8080/hls/channel_1.m3u8
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pDo9tFG.png" group-title="Live Sports", RabbitholeBD (YT)
 http://acdn.bdixsports.live:1935/live/event/index.m3u8
@@ -25,6 +25,9 @@ http://103.107.160.20:8081/amrbd/gazihd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX16)
 http://103.40.226.94:8080/hls/channel_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX12)
+http://103.78.255.178:8080/gtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UMB7kiy.jpg" group-title="Bangla",Maasranga HD (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/live-orgin/mass.stream/chunks.m3u8
@@ -264,7 +267,7 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6637/index.m3u8
 https://idvd.multitvsolution.com/idvo/enter10bangla_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (radiant)
-http://173.199.120.51/hls/sony8.m3u8
+http://tvflix00.hopto.org/hls/sony8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (edmost)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6641/index.m3u8
@@ -285,7 +288,7 @@ http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/693/239/png-transparent-peace-tv-bangla-youtube-television-channel-youtube-television-text-logo.png" group-title="Islamic",Peace TV 
-http://173.199.120.51/hls/peacetv.m3u8
+http://tvflix00.hopto.org/hls/peacetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="Islamic", ATN Islamic (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
@@ -402,7 +405,7 @@ http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (radiant)
-http://173.199.120.51/hls/chst1.m3u8
+http://tvflix00.hopto.org/hls/chst1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 HD (BDIX3)
 http://172.27.27.3:8081/local/sony-ten-2-hd/chunks.m3u8
@@ -420,7 +423,7 @@ http://103.159.4.38:8080/SPORTS-9/index.m3u8
 http://103.109.56.116/live/skyfeed1018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (radiant)
-http://173.199.120.51/hls/chst2.m3u8
+http://tvflix00.hopto.org/hls/chst2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3 (BDIX1)
 http://45.127.244.7:8080/hls/channel9.m3u8
@@ -429,7 +432,7 @@ http://45.127.244.7:8080/hls/channel9.m3u8
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3  (radiant)
-http://173.199.120.51/hls/chst3.m3u8
+http://tvflix00.hopto.org/hls/chst3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3  (FPM)
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
@@ -480,7 +483,7 @@ http://103.109.56.116/live/skyfeed1021/index.m3u8
 http://93.152.174.144:4000/play/ss2in/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 (radiant)
-http://173.199.120.51/hls/chsp2.m3u8
+http://tvflix00.hopto.org/hls/chsp2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 HD
 http://140.238.229.213/sp2/index.m3u8
@@ -726,7 +729,7 @@ http://172.27.27.3:8081/local/Star_Plus/chunks.m3u8
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="Hindi",Star Plus  (Radiant)
-http://173.199.120.51/hls/chsp.m3u8
+http://tvflix00.hopto.org/hls/chsp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD (BDIX2)
 http://tv2.ebox.live:8080/live/star-movies.m3u8
@@ -746,11 +749,11 @@ http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png"  group-title="English Movies",Lotus Macau (BDIX2)
 http://tv2.ebox.live:8080/live/hbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332"  group-title="Hindi Music",9XM
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332"  group-title="Hindi Music",9XM (BDIX12)
 http://103.78.255.178:8080/9xm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332"  group-title="Hindi Music",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/t4j8hjhh"  group-title="Hindi Music",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
@@ -780,7 +783,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg" group-title="Hindi",Sony TV HD (radiant)
-http://173.199.120.51/hls/chs.m3u8
+http://tvflix00.hopto.org/hls/chs.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg" group-title="Hindi",Sony TV HD (BDIX2)
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
@@ -802,4 +805,3 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2019/04/rishtey-cineplex_1555156123.jpg" group-title="Hindi Movies",Rishtey Cineplex (multitvsolution)
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-
