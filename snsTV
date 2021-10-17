@@ -39,7 +39,7 @@ http://tv2.ebox.live:8080/live/maasranga.m3u8
 https://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV (radiant)
-http://tvflix00.hopto.org/hls/asiantv.m3u8
+http://173.199.120.53/hls/asiantv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -123,7 +123,7 @@ http://43.230.123.21:8080/live/deeptotv.m3u8
 https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla",DESH TV (radiant)
-http://tvflix00.hopto.org/hls/deshtv.m3u8
+http://173.199.120.53/hls/deshtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
@@ -135,7 +135,7 @@ https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
 http://103.159.4.38:8080/BD-BANGLA-7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (radiant)
-http://tvflix00.hopto.org/hls/ekatoortv.m3u8
+http://173.199.120.53/hls/ekatoortv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (BDcableTV)
 http://jupiter.bdcabletv.com/Ekattor-HD-IRD/video.m3u8
@@ -177,7 +177,7 @@ http://45.127.244.25:8080/20/index.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (radiant)
-http://tvflix00.hopto.org/hls/nagorik.m3u8
+http://173.199.120.53/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV
 https://cdn.nowhdtime.com.bd/NagorikTV/index.m3u8
@@ -186,7 +186,7 @@ https://cdn.nowhdtime.com.bd/NagorikTV/index.m3u8
 http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (radiant)
-http://tvflix00.hopto.org/hls/ntv.m3u8
+http://173.199.120.53/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDcableTV)
 http://jupiter.bdcabletv.com/NTV/video.m3u8
@@ -243,7 +243,7 @@ http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha (radiant)
-http://tvflix00.hopto.org/hls/chsj.m3u8
+http://173.199.120.53/hls/chsj.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha 
 http://bosstr.net/live/cat54/DpbYpXOhHn/33960.m3u8
@@ -258,7 +258,7 @@ http://172.27.27.3:8081/local/Zee_Bangla/chunks.m3u8
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla (radiant)
-http://tvflix00.hopto.org/hls/zeebanglahd.m3u8
+http://173.199.120.53/hls/zeebanglahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema (BDIX2)
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
@@ -270,7 +270,7 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6637/index.m3u8
 https://idvd.multitvsolution.com/idvo/enter10bangla_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (radiant)
-http://tvflix00.hopto.org/hls/sony8.m3u8
+http://173.199.120.53/hls/sony8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (edmost)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6641/index.m3u8
