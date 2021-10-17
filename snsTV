@@ -179,6 +179,9 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (radiant)
 http://tvflix00.hopto.org/hls/nagorik.m3u8
 
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV
+https://cdn.nowhdtime.com.bd/NagorikTV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV  (BDIX9)
 http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
 
