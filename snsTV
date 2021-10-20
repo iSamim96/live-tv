@@ -224,8 +224,8 @@ http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX1)
 http://45.127.244.7:8080/hls/channel3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangla",T Sports HD (gCDN)
-https://cdn.nowhdtime.com.bd/TSports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangla",T Sports HD (BDIX8)
+https://cdn.nowhdtime.com.bd/j-TSports/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" group-title="Bangla",T sports (BDIX5)
 http://103.102.27.172:6464/Channel-2/index.m3u8
@@ -513,7 +513,7 @@ http://172.27.27.3:8081/local/star-sports-select-2-hd/chunks.m3u8
 http://103.109.56.116/live/skyfeed1024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 
-http://bosstr.net/live/cat54/DpbYpXOhHn/27084.m3u8
+http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/index.m3u8?token=tvflixlive.ml
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-cricket-257.png" group-title="Sports" ,Astro Cricket 
 http://tvflixpo.hopto.org/live/60/60/51452.m3u8
