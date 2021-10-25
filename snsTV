@@ -5,8 +5,11 @@
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  2
 https://tinyurl.com/Hdstreamz6543
+
+#EXTINF:-1 tvg-logo="http://93.114.194.133/siyathatv_logo.jpg" group-title="Live Sports", Siyatha TV
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pDo9tFG.png" group-title="Live Sports", RabbitholeBD 
 http://acdn.bdixsports.live:1935/live/event.stream/index.m3u8
@@ -22,12 +25,6 @@ http://103.102.27.172:6464/Channel-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX16)
 http://103.40.226.94:8080/hls/channel_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (Netscope)
-http://103.77.188.27:1935/live/gtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDcast)
-https://shark2-3232.bd-cast.net/bd-gazi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UMB7kiy.jpg" group-title="Bangla",Maasranga HD (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/live-orgin/mass.stream/chunks.m3u8
@@ -452,8 +449,8 @@ http://103.109.56.116/live/skyfeed1021/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 (radiant)
-http://tvflix00.hopto.org/hls/chsp2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 
+http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=tvflixlive.ml
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
 http://93.152.174.144:4000/play/ss3in/index.m3u8
