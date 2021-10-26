@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  2
-https://tinyurl.com/Hdstreamz6543
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  2 (Jadoo)
+https://tinyurl.com/Jdbd5468
 
 #EXTINF:-1 tvg-logo="http://93.114.194.133/siyathatv_logo.jpg" group-title="Live Sports", Siyatha TV
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
@@ -20,8 +20,8 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX3)
 http://172.27.27.3:8081/local/gazi-tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX5)
-http://103.102.27.172:6464/Channel-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (Netscope)
+http://103.77.188.27:1935/live/gtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX16)
 http://103.40.226.94:8080/hls/channel_1.m3u8
