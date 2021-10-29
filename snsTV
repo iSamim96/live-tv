@@ -131,8 +131,8 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV  (BDCast)
 https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (radiant)
-http://173.199.120.53/hls/ekatoortv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (BDIX-Jadoo))
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1635623505&md5=tEYG6R23Mf2iPriM0uHfcA&user=49729ec489674ef3912b6d7cd0822923
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV (BDcableTV)
 http://jupiter.bdcabletv.com/Ekattor-HD-IRD/video.m3u8
@@ -173,7 +173,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX14)
 http://103.153.175.254:8080/hls/nagoriktv.m3u8
 
-EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV  (BDIX14)
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV  (BDIX14)
 http://103.153.175.254:8080/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX15)
