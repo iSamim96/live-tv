@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  2 (BDIX7)
-http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  2 
+http://nwbz1u.ecm.tm/806B6CF/14295e/cricket_1/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ea01782ca0560ef969081f5bf98ed30fa9d2da075f20b16ea5c711cb0f39bd15938e80beea05080c7c9986533c965d2df2e9cb6f48203323b29cea3e9e4f4adfb2be1ed7c13a30ef8c66ea6869755bd5bb4d16405cd81105?@INDIA_IPTV2021
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (BDIXsports)
 http://bcdn.bdixsports.live:1935/live/event.stream/index.m3u8
@@ -86,8 +86,8 @@ http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo="https://mcmscache.epapr.in/post_images/website_350/post_15707961/thumb.jpg" group-title="Bangla",BTV (BDIX6)
 http://103.106.2.149:13456/btv.m3u8
 
-#EXTINF:-1 tvg-logo="https://mcmscache.epapr.in/post_images/website_350/post_15707961/thumb.jpg" group-title="Bangla",BTV  (BDIX11)
-http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1 tvg-logo="https://mcmscache.epapr.in/post_images/website_350/post_15707961/thumb.jpg" group-title="Bangla",BTV  (BDIX7)
+http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",BTV World (BDIX6)
 http://103.106.2.149:13456/btv_world.m3u8
@@ -652,8 +652,11 @@ http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
 http://103.153.39.34:8000/play/a04p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema 
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Hindi Movies",Star Gold HD (BDIX2)
 http://tv2.ebox.live:8080/live/star-gold.m3u8
@@ -670,8 +673,8 @@ http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",ZEE TV HD (BDIX2)
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",ZEE TV HD (jio)
-http://jo123.biz/jweb/m3u8.php?c=Zee_TV_HD&q=600&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",ZEE TV HD (pk)
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="Hindi",Star Plus HD  (BDIX3)
 http://172.27.27.3:8088/hls/StarPlus.m3u8
@@ -679,11 +682,14 @@ http://172.27.27.3:8088/hls/StarPlus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="Hindi",Star Plus HD (BDIX2)
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="Hindi",Star Plus  (Radiant)
-http://tvflix00.hopto.org/hls/chsp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="Hindi",Star Plus  (pk)
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies HD (BDIX2)
 http://tv2.ebox.live:8080/live/star-movies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies 
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg"  group-title="English Movies",HBO 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -742,8 +748,8 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi Movies",Sony MAX HD (BDIX3)
 
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi Movies",Sony MAX  (BDIX1)
-http://45.127.244.7:8080/hls/channel14.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi Movies",Sony MAX  (pk)
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movies",UTV Action
 http://103.153.39.34:8000/play/a06o/index.m3u8
