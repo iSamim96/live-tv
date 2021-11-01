@@ -9,7 +9,7 @@ http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 http://nwbz1u.ecm.tm/806B6CF/14295e/cricket_1/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ea01782ca0560ef969081f5bf98ed30fa9d2da075f20b16ea5c711cb0f39bd15938e80beea05080c7c9986533c965d2df2e9cb6f48203323b29cea3e9e4f4adfb2be1ed7c13a30ef8c66ea6869755bd5bb4d16405cd81105?@INDIA_IPTV2021
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (BDIXsports)
-http://bcdn.bdixsports.live:1935/live/event.stream/index.m3u8
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8?bdixsportstokenendtime=1635777180&bdixsportstokenstarttime=1635773580&bdixsportstokenhash=LSd38WAihF3Sc6mL0nG_5yzy0rORmLq_UMcemYtZqTc=
 
 #EXTINF:-1 tvg-logo="http://93.114.194.133/siyathatv_logo.jpg" group-title="Live Sports", Siyatha TV
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
