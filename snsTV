@@ -289,6 +289,9 @@ http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Islamic", Peace TV 
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
+#EXTINF:-1 tvg-logo="https://dnc.techtunes.io/tDrive/tuner/kripaparthi/495354/Peace-TV-Bangla.jpg" group-title="Islamic", Peace TV Bangla
+http://199.223.252.162:8032/bangla_adaptive/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="Islamic", ATN Islamic (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 
