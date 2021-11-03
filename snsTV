@@ -182,7 +182,8 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo.png" group-title="Bangla",Nagorik TV (BDIX7)
 http://103.70.140.27:8080/hls/nagoriktvhd.m3u8
 
-EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV  (BDIX14)
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV  
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV (BDIX15)
 https://live.sonyplex.com/sonyplex/N-Tv.stream/index.m3u8
@@ -272,7 +273,7 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 http://103.70.140.27:8080/hls/sonyaat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath (jio)
-http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
+http://65.2.4.240/jioo.php?c=Sony_aath&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",Colors Bangla (BDIX2)
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
@@ -292,8 +293,8 @@ http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="Islamic", ATN Islamic (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://durbinlive.com/uploads/tv_image/sm/hajj-live.jpg" group-title="Islamic", Makkah Live (BDIX0)
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/live-orgin/makkah.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://durbinlive.com/uploads/tv_image/sm/hajj-live.jpg" group-title="Islamic", Makkah Live 
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://durbinlive.com/uploads/tv_image/sm/madani-channel-bangla.jpg" group-title="Islamic", Madani TV
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
@@ -475,9 +476,6 @@ http://103.109.56.116/live/skyfeed1021/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 
-http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=tvflixlive.ml
-
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-3-logo.jpg" group-title="Sports", Star Sports 3 
 http://93.152.174.144:4000/play/ss3in/index.m3u8
 
@@ -615,6 +613,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network RU
 http://iptv.prosto.tv:7000/ch207/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network Hindi (jio)
 http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
