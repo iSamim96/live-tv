@@ -306,7 +306,7 @@ http://tv2.ebox.live:8080/live/animale-planet.m3u8
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" group-title="Documentary",Animal Planet Hindi (jio)
-http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
+http://65.2.4.240/jioo.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (multitvsolution)
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
@@ -315,7 +315,7 @@ https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 https://idvd.multitvsolution.com/idvo/discoveryhd_540p/index.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Bangla (jio)
-http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
+http://65.2.4.240/jioo.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD  (BDIX2)
 http://tv2.ebox.live:8080/live/discovery.m3u8
@@ -354,7 +354,7 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 http://185.41.244.69/historia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel Hindi (jio)
-http://jo123.biz/jweb/m3u8.php?c=History_18_Hindi&q=600&e=junk.m3u8
+http://65.2.4.240/jioo.php?c=History_18_Hindi&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png"  group-title="Documentary",TLC (multitvsolution)
 https://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
@@ -364,9 +364,6 @@ https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",Sony BBC Earth (FPM)
 https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",Sony BBC Earth
-http://103.153.39.34:8000/play/a05m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"  group-title="Documentary",TravelXP
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
@@ -404,8 +401,8 @@ http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (BDIX2)
 http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (BDIX11)
-http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (jio)
+http://65.2.4.240/jioo.php?c=Ten_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg"  group-title="Sports",Sony Ten 1 (FPM)
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
@@ -425,14 +422,11 @@ http://10.100.100.134/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (BDIX5)
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (BDIX11)
-http://103.109.56.116/live/skyfeed1018/index.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (jio)
+http://65.2.4.240/jioo.php?c=Ten_2&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg"  group-title="Sports",Sony Ten 2 (FPM)
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3 (BDIX11)
-http://103.109.56.116/live/skyfeed1019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png"  group-title="Sports",Sony Ten 3  (FPM)
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
@@ -445,6 +439,9 @@ http://tv2.ebox.live:8080/live/sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD   (BDIX4)
 http://10.100.100.134/live/skyfeed1003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD  (jio)
+http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports",Sony Six HD  (FPM)
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
@@ -633,7 +630,7 @@ https://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 http://103.153.39.34:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay  (jio)
-http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
+http://65.2.4.240/jioo.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" group-title="Cartoon",Aniplus
 http://45.126.83.51/dr9445/h/h02/index.m3u8
@@ -645,7 +642,7 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo (jio)
-http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=600&e=junk.m3u8
+http://65.2.4.240/jioo.php?c=Pogo_Hindi&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama Tv Hindi
 http://103.153.39.34:8000/play/a04l/index.m3u8
@@ -748,9 +745,6 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2f20160517221047780336_hungama-digital.gif" group-title="Hindi Music", Hungama Digital (Hungama)
 https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg" group-title="Hindi",Sony TV HD (radiant)
-http://tvflix00.hopto.org/hls/chs.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg" group-title="Hindi",Sony TV HD (BDIX2)
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
