@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  2 
-http://nwbz1u.ecm.tm/806B6CF/14295e/cricket_1/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ea01782ca0560ef969081f5bf98ed30fa9d2da075f20b16ea5c711cb0f39bd15938e80beea05080c7c9986533c965d2df2e9cb6f48203323b29cea3e9e4f4adfb2be1ed7c13a30ef8c66ea6869755bd5bb4d16405cd81105?@INDIA_IPTV2021
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  2 (gCDN)
+https://last.gcdn.co/IND424/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
@@ -26,8 +26,8 @@ http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX15)
 https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX17)
-http://103.77.188.27:1935/live/gtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (gCDN)
+https://last.gcdn.co/IND425/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UMB7kiy.jpg" group-title="Bangla",Maasranga HD (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/live-orgin/mass.stream/chunks.m3u8
