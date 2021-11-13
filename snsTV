@@ -23,8 +23,8 @@ http://172.27.27.3:8088/hls/gazitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX11)
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX15)
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX12)
+http://103.78.255.178:8080/gtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (gCDN)
 https://last.gcdn.co/IND425/index.m3u8
@@ -110,6 +110,9 @@ http://tv2.ebox.live:8080/live/dbc.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (BDIX1)
+http://45.127.244.7:8080/hls/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg" group-title="Bangla",Deepto TV (BDIX2)
 http://43.230.123.21:8080/live/deeptotv.m3u8
