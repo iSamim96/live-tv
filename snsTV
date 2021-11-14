@@ -26,6 +26,9 @@ http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX12)
 http://103.78.255.178:8080/gtv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX15)
+https://live.sonyplex.com/ott/gtv.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (gCDN)
 https://last.gcdn.co/IND425/index.m3u8
 
@@ -213,6 +216,9 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (iplex)
 http://103.161.104.252:2322/T-Sports_ENC/video.m3u8
 
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX15)
+https://live.sonyplex.com/ott/tsports.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangla",T sports HD (BDIX9)
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 
@@ -300,8 +306,8 @@ http://65.2.4.240/jioo.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet Hindi  (multitvsolution)
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
-#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD (multitvsolution)
-https://idvd.multitvsolution.com/idvo/discoveryhd_540p/index.m3u8
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery HD (gCDN)
+https://last.gcdn.co/IND415/index.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Bangla (jio)
 http://65.2.4.240/jioo.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
