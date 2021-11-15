@@ -192,6 +192,9 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla",News24 (BDIX2)
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg" group-title="Bangla", Nexus TV (BDIX1)
+http://45.127.244.7:8080/hls/channel11.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg" group-title="Bangla", Nexus TV (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
 
