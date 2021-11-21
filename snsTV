@@ -57,7 +57,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://tv2.ebox.live:8080/live/banae3.m3u8
 
 #EXTINF:-1 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo.png" group-title="Bangla",Bangla TV (BDIX0)
-https://live2.bd-cast.net/jago/1/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo.png" group-title="Bangla",Bangla TV 
 http://tv.alphamediazone.com:8089/thunderbd/19/index.m3u8
