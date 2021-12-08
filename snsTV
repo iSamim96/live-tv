@@ -119,6 +119,9 @@ https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/pwntay2x" group-title="Bangla",Ekattor TV (iplex)
 http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/pwntay2x" group-title="Bangla",Ekattor TV (BDIX9)
+http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDIX10)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
