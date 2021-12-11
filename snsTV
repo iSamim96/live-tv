@@ -5,8 +5,11 @@
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (BDIX2)
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports  2 (BDIX7)
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX7)
 http://12.1.1.1:8082/Local-Sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX8)
+http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
@@ -80,11 +83,17 @@ http://stream.amrbd.com:8082/Boishakhi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",BTV Chattagram (BDIX6)
 http://103.106.2.149:13456/btv_ctg.m3u8
 
-#EXTINF:-1 tvg-logo="https://mcmscache.epapr.in/post_images/website_350/post_15707961/thumb.jpg" group-title="Bangla",BTV (BDIX6)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9hN3PH.png" group-title="Bangla",BTV (BDIX6)
 http://103.106.2.149:13456/btv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9hN3PH.png" group-title="Bangla",BTV (BDIX8)
+http://stream.dhakaflix.com:8081/live/dhakaflix-gtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",BTV World (BDIX6)
 http://103.106.2.149:13456/btv_world.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", Bijoy TV  (BDIX7)
+http://stream.amrbd.com:8082/BijoyTv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", Bijoy TV  (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8
